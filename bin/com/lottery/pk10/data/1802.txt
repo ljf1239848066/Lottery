@@ -1,0 +1,3827 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/bin/java -Didea.launcher.port=7538 "-Didea.launcher.bin.path=/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=GBK -classpath "/Users/a1239848066/Develop/Java/Lottery1/bin:/Users/a1239848066/Documents/Android/AndroidSDK/platforms/android-26/android.jar:/Users/a1239848066/Documents/Android/AndroidSDK/platforms/android-26/data/res:/Users/a1239848066/Documents/Android/AndroidSDK/platforms/android-15/android.jar:/Users/a1239848066/Documents/Android/AndroidSDK/add-ons/addon-google_apis-google-15/libs/usb.jar:/Users/a1239848066/Documents/Android/AndroidSDK/add-ons/addon-google_apis-google-15/libs/effects.jar:/Users/a1239848066/Documents/Android/AndroidSDK/add-ons/addon-google_apis-google-15/libs/maps.jar:/Users/a1239848066/Documents/Android/AndroidSDK/platforms/android-15/data/res:/Users/a1239848066/Documents/Android/AndroidSDK/tools/support/annotations.jar:/Users/a1239848066/Develop/Java/Lottery1/libs/org.apache.http.legacy.jar:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMain com.lottery.pk10.Test
+第0轮测试
+count= 1, size=  1352, rate=7.5111
+count= 2, size=   680, rate=3.7778
+count= 3, size=   373, rate=2.0722
+count= 4, size=   175, rate=0.9722
+count= 5, size=    64, rate=0.3556
+count= 6, size=    41, rate=0.2278
+count= 7, size=    24, rate=0.1333
+count= 8, size=     3, rate=0.0167
+count= 9, size=     3, rate=0.0167
+count=10, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=503
+startL=7, WinMoney=264
+startL=8, WinMoney=98
+startL=9, WinMoney=62
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=503
+totalL=6, WinMoney=503
+totalL=7, WinMoney=503
+totalL=8, WinMoney=503
+totalL=9, WinMoney=503
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=503
+startL=7, WinMoney=264
+startL=8, WinMoney=98
+startL=9, WinMoney=62
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=503
+totalL=6, WinMoney=503
+totalL=7, WinMoney=503
+totalL=8, WinMoney=503
+totalL=9, WinMoney=503
+第1轮测试
+count= 1, size=  1269, rate=7.0500
+count= 2, size=   661, rate=3.6722
+count= 3, size=   316, rate=1.7556
+count= 4, size=   151, rate=0.8389
+count= 5, size=    91, rate=0.5056
+count= 6, size=    46, rate=0.2556
+count= 7, size=    36, rate=0.2000
+count= 8, size=    14, rate=0.0778
+count= 9, size=     5, rate=0.0278
+count=10, size=     4, rate=0.0222
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=361
+startL=7, WinMoney=265
+startL=8, WinMoney=145
+startL=9, WinMoney=64
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-43
+totalL=6, WinMoney=361
+totalL=7, WinMoney=361
+totalL=8, WinMoney=361
+totalL=9, WinMoney=361
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=361
+startL=7, WinMoney=265
+startL=8, WinMoney=145
+startL=9, WinMoney=64
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-43
+totalL=6, WinMoney=361
+totalL=7, WinMoney=361
+totalL=8, WinMoney=361
+totalL=9, WinMoney=361
+第2轮测试
+count= 1, size=  1429, rate=7.9389
+count= 2, size=   661, rate=3.6722
+count= 3, size=   311, rate=1.7278
+count= 4, size=   182, rate=1.0111
+count= 5, size=    86, rate=0.4778
+count= 6, size=    28, rate=0.1556
+count= 7, size=    26, rate=0.1444
+count= 8, size=     7, rate=0.0389
+count= 9, size=     5, rate=0.0278
+count=10, size=     2, rate=0.0111
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+count=16, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=593
+startL=7, WinMoney=470
+startL=8, WinMoney=311
+startL=9, WinMoney=245
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-715
+totalL=6, WinMoney=-323
+totalL=7, WinMoney=-1190
+totalL=8, WinMoney=593
+totalL=9, WinMoney=593
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=593
+startL=7, WinMoney=470
+startL=8, WinMoney=311
+startL=9, WinMoney=245
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-715
+totalL=6, WinMoney=-323
+totalL=7, WinMoney=-1190
+totalL=8, WinMoney=593
+totalL=9, WinMoney=593
+第3轮测试
+count= 1, size=  1357, rate=7.5389
+count= 2, size=   678, rate=3.7667
+count= 3, size=   298, rate=1.6556
+count= 4, size=   176, rate=0.9778
+count= 5, size=    90, rate=0.5000
+count= 6, size=    38, rate=0.2111
+count= 7, size=    27, rate=0.1500
+count= 8, size=    10, rate=0.0556
+count= 9, size=     1, rate=0.0056
+count=10, size=     2, rate=0.0111
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+count=13, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-1157
+startL=7, WinMoney=-1319
+startL=8, WinMoney=-614
+startL=9, WinMoney=-294
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-285
+totalL=6, WinMoney=-300
+totalL=7, WinMoney=-1157
+totalL=8, WinMoney=-1157
+totalL=9, WinMoney=-1157
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-1157
+startL=7, WinMoney=-1319
+startL=8, WinMoney=-614
+startL=9, WinMoney=-294
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-285
+totalL=6, WinMoney=-300
+totalL=7, WinMoney=-1157
+totalL=8, WinMoney=-1157
+totalL=9, WinMoney=-1157
+第4轮测试
+count= 1, size=  1277, rate=7.0944
+count= 2, size=   755, rate=4.1944
+count= 3, size=   305, rate=1.6944
+count= 4, size=   174, rate=0.9667
+count= 5, size=    87, rate=0.4833
+count= 6, size=    47, rate=0.2611
+count= 7, size=    16, rate=0.0889
+count= 8, size=     4, rate=0.0222
+count= 9, size=     3, rate=0.0167
+count=10, size=     4, rate=0.0222
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=462
+startL=7, WinMoney=249
+startL=8, WinMoney=124
+startL=9, WinMoney=73
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=462
+totalL=6, WinMoney=462
+totalL=7, WinMoney=462
+totalL=8, WinMoney=462
+totalL=9, WinMoney=462
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=462
+startL=7, WinMoney=249
+startL=8, WinMoney=124
+startL=9, WinMoney=73
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=462
+totalL=6, WinMoney=462
+totalL=7, WinMoney=462
+totalL=8, WinMoney=462
+totalL=9, WinMoney=462
+第5轮测试
+count= 1, size=  1302, rate=7.2333
+count= 2, size=   629, rate=3.4944
+count= 3, size=   321, rate=1.7833
+count= 4, size=   185, rate=1.0278
+count= 5, size=   103, rate=0.5722
+count= 6, size=    36, rate=0.2000
+count= 7, size=    24, rate=0.1333
+count= 8, size=    11, rate=0.0611
+count= 9, size=     3, rate=0.0167
+count=10, size=     1, rate=0.0056
+count=11, size=     4, rate=0.0222
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=547
+startL=7, WinMoney=359
+startL=8, WinMoney=182
+startL=9, WinMoney=92
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-259
+totalL=6, WinMoney=547
+totalL=7, WinMoney=547
+totalL=8, WinMoney=547
+totalL=9, WinMoney=547
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=547
+startL=7, WinMoney=359
+startL=8, WinMoney=182
+startL=9, WinMoney=92
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-259
+totalL=6, WinMoney=547
+totalL=7, WinMoney=547
+totalL=8, WinMoney=547
+totalL=9, WinMoney=547
+第6轮测试
+count= 1, size=  1473, rate=8.1833
+count= 2, size=   657, rate=3.6500
+count= 3, size=   344, rate=1.9111
+count= 4, size=   158, rate=0.8778
+count= 5, size=    86, rate=0.4778
+count= 6, size=    39, rate=0.2167
+count= 7, size=    23, rate=0.1278
+count= 8, size=     5, rate=0.0278
+count= 9, size=     1, rate=0.0056
+count=10, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=323
+startL=7, WinMoney=174
+startL=8, WinMoney=45
+startL=9, WinMoney=31
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=323
+totalL=6, WinMoney=323
+totalL=7, WinMoney=323
+totalL=8, WinMoney=323
+totalL=9, WinMoney=323
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=323
+startL=7, WinMoney=174
+startL=8, WinMoney=45
+startL=9, WinMoney=31
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=323
+totalL=6, WinMoney=323
+totalL=7, WinMoney=323
+totalL=8, WinMoney=323
+totalL=9, WinMoney=323
+第7轮测试
+count= 1, size=  1421, rate=7.8944
+count= 2, size=   636, rate=3.5333
+count= 3, size=   347, rate=1.9278
+count= 4, size=   156, rate=0.8667
+count= 5, size=    78, rate=0.4333
+count= 6, size=    38, rate=0.2111
+count= 7, size=    13, rate=0.0722
+count= 8, size=    14, rate=0.0778
+count= 9, size=     6, rate=0.0333
+count=10, size=     3, rate=0.0167
+count=11, size=     6, rate=0.0333
+count=12, size=     1, rate=0.0056
+count=16, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2839
+startL=7, WinMoney=444
+startL=8, WinMoney=316
+startL=9, WinMoney=196
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1759
+totalL=6, WinMoney=-168
+totalL=7, WinMoney=-1034
+totalL=8, WinMoney=-2839
+totalL=9, WinMoney=-6623
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2839
+startL=7, WinMoney=444
+startL=8, WinMoney=316
+startL=9, WinMoney=196
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1759
+totalL=6, WinMoney=-168
+totalL=7, WinMoney=-1034
+totalL=8, WinMoney=-2839
+totalL=9, WinMoney=-6623
+第8轮测试
+count= 1, size=  1364, rate=7.5778
+count= 2, size=   677, rate=3.7611
+count= 3, size=   327, rate=1.8167
+count= 4, size=   160, rate=0.8889
+count= 5, size=    88, rate=0.4889
+count= 6, size=    57, rate=0.3167
+count= 7, size=    13, rate=0.0722
+count= 8, size=     7, rate=0.0389
+count= 9, size=     4, rate=0.0222
+count=10, size=     4, rate=0.0222
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=457
+startL=7, WinMoney=243
+startL=8, WinMoney=126
+startL=9, WinMoney=74
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=457
+totalL=6, WinMoney=457
+totalL=7, WinMoney=457
+totalL=8, WinMoney=457
+totalL=9, WinMoney=457
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=457
+startL=7, WinMoney=243
+startL=8, WinMoney=126
+startL=9, WinMoney=74
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=457
+totalL=6, WinMoney=457
+totalL=7, WinMoney=457
+totalL=8, WinMoney=457
+totalL=9, WinMoney=457
+第9轮测试
+count= 1, size=  1322, rate=7.3444
+count= 2, size=   642, rate=3.5667
+count= 3, size=   326, rate=1.8111
+count= 4, size=   132, rate=0.7333
+count= 5, size=    89, rate=0.4944
+count= 6, size=    59, rate=0.3278
+count= 7, size=    16, rate=0.0889
+count= 8, size=    10, rate=0.0556
+count= 9, size=    10, rate=0.0556
+count=10, size=     5, rate=0.0278
+count=11, size=     5, rate=0.0278
+count=12, size=     1, rate=0.0056
+count=14, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=634
+startL=7, WinMoney=399
+startL=8, WinMoney=275
+startL=9, WinMoney=181
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-197
+totalL=6, WinMoney=-215
+totalL=7, WinMoney=634
+totalL=8, WinMoney=634
+totalL=9, WinMoney=634
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=634
+startL=7, WinMoney=399
+startL=8, WinMoney=275
+startL=9, WinMoney=181
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-197
+totalL=6, WinMoney=-215
+totalL=7, WinMoney=634
+totalL=8, WinMoney=634
+totalL=9, WinMoney=634
+第10轮测试
+count= 1, size=  1380, rate=7.6667
+count= 2, size=   667, rate=3.7056
+count= 3, size=   305, rate=1.6944
+count= 4, size=   170, rate=0.9444
+count= 5, size=    80, rate=0.4444
+count= 6, size=    34, rate=0.1889
+count= 7, size=    27, rate=0.1500
+count= 8, size=     7, rate=0.0389
+count= 9, size=    10, rate=0.0556
+count=10, size=     2, rate=0.0111
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+count=13, size=     4, rate=0.0222
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=576
+startL=7, WinMoney=423
+startL=8, WinMoney=242
+startL=9, WinMoney=167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=138
+totalL=6, WinMoney=-272
+totalL=7, WinMoney=576
+totalL=8, WinMoney=576
+totalL=9, WinMoney=576
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=576
+startL=7, WinMoney=423
+startL=8, WinMoney=242
+startL=9, WinMoney=167
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=138
+totalL=6, WinMoney=-272
+totalL=7, WinMoney=576
+totalL=8, WinMoney=576
+totalL=9, WinMoney=576
+第11轮测试
+count= 1, size=  1453, rate=8.0722
+count= 2, size=   707, rate=3.9278
+count= 3, size=   344, rate=1.9111
+count= 4, size=   155, rate=0.8611
+count= 5, size=    84, rate=0.4667
+count= 6, size=    35, rate=0.1944
+count= 7, size=     8, rate=0.0444
+count= 8, size=     4, rate=0.0222
+count= 9, size=     7, rate=0.0389
+count=10, size=     2, rate=0.0111
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=434
+startL=7, WinMoney=238
+startL=8, WinMoney=139
+startL=9, WinMoney=90
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-401
+totalL=6, WinMoney=-415
+totalL=7, WinMoney=434
+totalL=8, WinMoney=434
+totalL=9, WinMoney=434
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=434
+startL=7, WinMoney=238
+startL=8, WinMoney=139
+startL=9, WinMoney=90
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-401
+totalL=6, WinMoney=-415
+totalL=7, WinMoney=434
+totalL=8, WinMoney=434
+totalL=9, WinMoney=434
+第12轮测试
+count= 1, size=  1332, rate=7.4000
+count= 2, size=   668, rate=3.7111
+count= 3, size=   306, rate=1.7000
+count= 4, size=   150, rate=0.8333
+count= 5, size=    91, rate=0.5056
+count= 6, size=    39, rate=0.2167
+count= 7, size=    24, rate=0.1333
+count= 8, size=     7, rate=0.0389
+count= 9, size=    14, rate=0.0778
+count=10, size=     2, rate=0.0111
+count=11, size=     6, rate=0.0333
+count=12, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=625
+startL=7, WinMoney=364
+startL=8, WinMoney=233
+startL=9, WinMoney=194
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1012
+totalL=6, WinMoney=-224
+totalL=7, WinMoney=625
+totalL=8, WinMoney=625
+totalL=9, WinMoney=625
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=625
+startL=7, WinMoney=364
+startL=8, WinMoney=233
+startL=9, WinMoney=194
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1012
+totalL=6, WinMoney=-224
+totalL=7, WinMoney=625
+totalL=8, WinMoney=625
+totalL=9, WinMoney=625
+第13轮测试
+count= 1, size=  1330, rate=7.3889
+count= 2, size=   648, rate=3.6000
+count= 3, size=   311, rate=1.7278
+count= 4, size=   189, rate=1.0500
+count= 5, size=    97, rate=0.5389
+count= 6, size=    40, rate=0.2222
+count= 7, size=    17, rate=0.0944
+count= 8, size=    11, rate=0.0611
+count= 9, size=     2, rate=0.0111
+count=10, size=     3, rate=0.0167
+count=11, size=     1, rate=0.0056
+count=12, size=     2, rate=0.0111
+count=14, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2887
+startL=7, WinMoney=476
+startL=8, WinMoney=269
+startL=9, WinMoney=136
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-640
+totalL=6, WinMoney=-1057
+totalL=7, WinMoney=-1076
+totalL=8, WinMoney=-2887
+totalL=9, WinMoney=857
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2887
+startL=7, WinMoney=476
+startL=8, WinMoney=269
+startL=9, WinMoney=136
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-640
+totalL=6, WinMoney=-1057
+totalL=7, WinMoney=-1076
+totalL=8, WinMoney=-2887
+totalL=9, WinMoney=857
+第14轮测试
+count= 1, size=  1285, rate=7.1389
+count= 2, size=   672, rate=3.7333
+count= 3, size=   325, rate=1.8056
+count= 4, size=   201, rate=1.1167
+count= 5, size=    72, rate=0.4000
+count= 6, size=    44, rate=0.2444
+count= 7, size=    21, rate=0.1167
+count= 8, size=     8, rate=0.0444
+count= 9, size=     5, rate=0.0278
+count=10, size=     3, rate=0.0167
+count=12, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=500
+startL=7, WinMoney=292
+startL=8, WinMoney=164
+startL=9, WinMoney=99
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=95
+totalL=6, WinMoney=500
+totalL=7, WinMoney=500
+totalL=8, WinMoney=500
+totalL=9, WinMoney=500
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=500
+startL=7, WinMoney=292
+startL=8, WinMoney=164
+startL=9, WinMoney=99
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=95
+totalL=6, WinMoney=500
+totalL=7, WinMoney=500
+totalL=8, WinMoney=500
+totalL=9, WinMoney=500
+第15轮测试
+count= 1, size=  1396, rate=7.7556
+count= 2, size=   666, rate=3.7000
+count= 3, size=   325, rate=1.8056
+count= 4, size=   174, rate=0.9667
+count= 5, size=    67, rate=0.3722
+count= 6, size=    45, rate=0.2500
+count= 7, size=    16, rate=0.0889
+count= 8, size=    11, rate=0.0611
+count= 9, size=     9, rate=0.0500
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+count=13, size=     2, rate=0.0111
+count=14, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2817
+startL=7, WinMoney=535
+startL=8, WinMoney=305
+startL=9, WinMoney=145
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-604
+totalL=6, WinMoney=-1844
+totalL=7, WinMoney=-1015
+totalL=8, WinMoney=-2817
+totalL=9, WinMoney=918
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2817
+startL=7, WinMoney=535
+startL=8, WinMoney=305
+startL=9, WinMoney=145
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-604
+totalL=6, WinMoney=-1844
+totalL=7, WinMoney=-1015
+totalL=8, WinMoney=-2817
+totalL=9, WinMoney=918
+第16轮测试
+count= 1, size=  1418, rate=7.8778
+count= 2, size=   670, rate=3.7222
+count= 3, size=   345, rate=1.9167
+count= 4, size=   153, rate=0.8500
+count= 5, size=    77, rate=0.4278
+count= 6, size=    45, rate=0.2500
+count= 7, size=    17, rate=0.0944
+count= 8, size=     9, rate=0.0500
+count= 9, size=     4, rate=0.0222
+count=10, size=     2, rate=0.0111
+count=13, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=524
+startL=7, WinMoney=296
+startL=8, WinMoney=156
+startL=9, WinMoney=65
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=94
+totalL=6, WinMoney=-325
+totalL=7, WinMoney=524
+totalL=8, WinMoney=524
+totalL=9, WinMoney=524
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=524
+startL=7, WinMoney=296
+startL=8, WinMoney=156
+startL=9, WinMoney=65
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=94
+totalL=6, WinMoney=-325
+totalL=7, WinMoney=524
+totalL=8, WinMoney=524
+totalL=9, WinMoney=524
+第17轮测试
+count= 1, size=  1294, rate=7.1889
+count= 2, size=   673, rate=3.7389
+count= 3, size=   327, rate=1.8167
+count= 4, size=   184, rate=1.0222
+count= 5, size=    82, rate=0.4556
+count= 6, size=    36, rate=0.2000
+count= 7, size=    18, rate=0.1000
+count= 8, size=    17, rate=0.0944
+count= 9, size=     5, rate=0.0278
+count=10, size=     2, rate=0.0111
+count=11, size=     1, rate=0.0056
+count=14, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-3009
+startL=7, WinMoney=406
+startL=8, WinMoney=221
+startL=9, WinMoney=106
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-317
+totalL=6, WinMoney=-341
+totalL=7, WinMoney=-1204
+totalL=8, WinMoney=-3009
+totalL=9, WinMoney=734
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-3009
+startL=7, WinMoney=406
+startL=8, WinMoney=221
+startL=9, WinMoney=106
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-317
+totalL=6, WinMoney=-341
+totalL=7, WinMoney=-1204
+totalL=8, WinMoney=-3009
+totalL=9, WinMoney=734
+第18轮测试
+count= 1, size=  1406, rate=7.8111
+count= 2, size=   656, rate=3.6444
+count= 3, size=   335, rate=1.8611
+count= 4, size=   148, rate=0.8222
+count= 5, size=    90, rate=0.5000
+count= 6, size=    31, rate=0.1722
+count= 7, size=    15, rate=0.0833
+count= 8, size=    14, rate=0.0778
+count= 9, size=    11, rate=0.0611
+count=10, size=     3, rate=0.0167
+count=11, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=473
+startL=7, WinMoney=351
+startL=8, WinMoney=242
+startL=9, WinMoney=117
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=79
+totalL=6, WinMoney=473
+totalL=7, WinMoney=473
+totalL=8, WinMoney=473
+totalL=9, WinMoney=473
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=473
+startL=7, WinMoney=351
+startL=8, WinMoney=242
+startL=9, WinMoney=117
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=79
+totalL=6, WinMoney=473
+totalL=7, WinMoney=473
+totalL=8, WinMoney=473
+totalL=9, WinMoney=473
+第19轮测试
+count= 1, size=  1423, rate=7.9056
+count= 2, size=   647, rate=3.5944
+count= 3, size=   345, rate=1.9167
+count= 4, size=   179, rate=0.9944
+count= 5, size=    72, rate=0.4000
+count= 6, size=    25, rate=0.1389
+count= 7, size=    22, rate=0.1222
+count= 8, size=     8, rate=0.0444
+count= 9, size=     4, rate=0.0222
+count=10, size=     4, rate=0.0222
+count=11, size=     5, rate=0.0278
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=453
+startL=7, WinMoney=276
+startL=8, WinMoney=129
+startL=9, WinMoney=86
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=51
+totalL=6, WinMoney=453
+totalL=7, WinMoney=453
+totalL=8, WinMoney=453
+totalL=9, WinMoney=453
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=453
+startL=7, WinMoney=276
+startL=8, WinMoney=129
+startL=9, WinMoney=86
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=51
+totalL=6, WinMoney=453
+totalL=7, WinMoney=453
+totalL=8, WinMoney=453
+totalL=9, WinMoney=453
+第20轮测试
+count= 1, size=  1319, rate=7.3278
+count= 2, size=   632, rate=3.5111
+count= 3, size=   318, rate=1.7667
+count= 4, size=   174, rate=0.9667
+count= 5, size=    89, rate=0.4944
+count= 6, size=    35, rate=0.1944
+count= 7, size=    26, rate=0.1444
+count= 8, size=     2, rate=0.0111
+count= 9, size=     8, rate=0.0444
+count=10, size=     3, rate=0.0167
+count=11, size=     2, rate=0.0111
+count=12, size=     2, rate=0.0111
+count=13, size=     3, rate=0.0167
+count=14, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2700
+startL=7, WinMoney=665
+startL=8, WinMoney=314
+startL=9, WinMoney=187
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1035
+totalL=6, WinMoney=-1868
+totalL=7, WinMoney=-4444
+totalL=8, WinMoney=-2700
+totalL=9, WinMoney=1035
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2700
+startL=7, WinMoney=665
+startL=8, WinMoney=314
+startL=9, WinMoney=187
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1035
+totalL=6, WinMoney=-1868
+totalL=7, WinMoney=-4444
+totalL=8, WinMoney=-2700
+totalL=9, WinMoney=1035
+第21轮测试
+count= 1, size=  1463, rate=8.1278
+count= 2, size=   690, rate=3.8333
+count= 3, size=   323, rate=1.7944
+count= 4, size=   189, rate=1.0500
+count= 5, size=    64, rate=0.3556
+count= 6, size=    39, rate=0.2167
+count= 7, size=    13, rate=0.0722
+count= 8, size=     5, rate=0.0278
+count= 9, size=     3, rate=0.0167
+count=10, size=     1, rate=0.0056
+count=11, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=426
+startL=7, WinMoney=233
+startL=8, WinMoney=139
+startL=9, WinMoney=81
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=22
+totalL=6, WinMoney=426
+totalL=7, WinMoney=426
+totalL=8, WinMoney=426
+totalL=9, WinMoney=426
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=426
+startL=7, WinMoney=233
+startL=8, WinMoney=139
+startL=9, WinMoney=81
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=22
+totalL=6, WinMoney=426
+totalL=7, WinMoney=426
+totalL=8, WinMoney=426
+totalL=9, WinMoney=426
+第22轮测试
+count= 1, size=  1327, rate=7.3722
+count= 2, size=   642, rate=3.5667
+count= 3, size=   335, rate=1.8611
+count= 4, size=   159, rate=0.8833
+count= 5, size=    81, rate=0.4500
+count= 6, size=    36, rate=0.2000
+count= 7, size=    24, rate=0.1333
+count= 8, size=    19, rate=0.1056
+count= 9, size=    12, rate=0.0667
+count=10, size=     2, rate=0.0111
+count=12, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=555
+startL=7, WinMoney=357
+startL=8, WinMoney=225
+startL=9, WinMoney=103
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-306
+totalL=6, WinMoney=-1142
+totalL=7, WinMoney=555
+totalL=8, WinMoney=555
+totalL=9, WinMoney=555
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=555
+startL=7, WinMoney=357
+startL=8, WinMoney=225
+startL=9, WinMoney=103
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-306
+totalL=6, WinMoney=-1142
+totalL=7, WinMoney=555
+totalL=8, WinMoney=555
+totalL=9, WinMoney=555
+第23轮测试
+count= 1, size=  1315, rate=7.3056
+count= 2, size=   668, rate=3.7111
+count= 3, size=   342, rate=1.9000
+count= 4, size=   167, rate=0.9278
+count= 5, size=    84, rate=0.4667
+count= 6, size=    35, rate=0.1944
+count= 7, size=    21, rate=0.1167
+count= 8, size=     8, rate=0.0444
+count= 9, size=     9, rate=0.0500
+count=10, size=     3, rate=0.0167
+count=11, size=     2, rate=0.0111
+count=12, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=526
+startL=7, WinMoney=354
+startL=8, WinMoney=216
+startL=9, WinMoney=120
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=132
+totalL=6, WinMoney=526
+totalL=7, WinMoney=526
+totalL=8, WinMoney=526
+totalL=9, WinMoney=526
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=526
+startL=7, WinMoney=354
+startL=8, WinMoney=216
+startL=9, WinMoney=120
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=132
+totalL=6, WinMoney=526
+totalL=7, WinMoney=526
+totalL=8, WinMoney=526
+totalL=9, WinMoney=526
+第24轮测试
+count= 1, size=  1436, rate=7.9778
+count= 2, size=   694, rate=3.8556
+count= 3, size=   339, rate=1.8833
+count= 4, size=   153, rate=0.8500
+count= 5, size=    85, rate=0.4722
+count= 6, size=    38, rate=0.2111
+count= 7, size=    24, rate=0.1333
+count= 8, size=     8, rate=0.0444
+count= 9, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=475
+startL=7, WinMoney=264
+startL=8, WinMoney=80
+startL=9, WinMoney=9
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=475
+totalL=6, WinMoney=475
+totalL=7, WinMoney=475
+totalL=8, WinMoney=475
+totalL=9, WinMoney=475
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=475
+startL=7, WinMoney=264
+startL=8, WinMoney=80
+startL=9, WinMoney=9
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=475
+totalL=6, WinMoney=475
+totalL=7, WinMoney=475
+totalL=8, WinMoney=475
+totalL=9, WinMoney=475
+第25轮测试
+count= 1, size=  1314, rate=7.3000
+count= 2, size=   642, rate=3.5667
+count= 3, size=   333, rate=1.8500
+count= 4, size=   148, rate=0.8222
+count= 5, size=    96, rate=0.5333
+count= 6, size=    53, rate=0.2944
+count= 7, size=    21, rate=0.1167
+count= 8, size=    16, rate=0.0889
+count= 9, size=     6, rate=0.0333
+count=10, size=     2, rate=0.0111
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=106
+startL=7, WinMoney=-50
+startL=8, WinMoney=-22
+startL=9, WinMoney=-24
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=106
+totalL=6, WinMoney=106
+totalL=7, WinMoney=106
+totalL=8, WinMoney=106
+totalL=9, WinMoney=106
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=106
+startL=7, WinMoney=-50
+startL=8, WinMoney=-22
+startL=9, WinMoney=-24
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=106
+totalL=6, WinMoney=106
+totalL=7, WinMoney=106
+totalL=8, WinMoney=106
+totalL=9, WinMoney=106
+第26轮测试
+count= 1, size=  1371, rate=7.6167
+count= 2, size=   657, rate=3.6500
+count= 3, size=   327, rate=1.8167
+count= 4, size=   187, rate=1.0389
+count= 5, size=    90, rate=0.5000
+count= 6, size=    42, rate=0.2333
+count= 7, size=    20, rate=0.1111
+count= 8, size=     7, rate=0.0389
+count= 9, size=     2, rate=0.0111
+count=10, size=     2, rate=0.0111
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=480
+startL=7, WinMoney=275
+startL=8, WinMoney=127
+startL=9, WinMoney=47
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=50
+totalL=6, WinMoney=-369
+totalL=7, WinMoney=480
+totalL=8, WinMoney=480
+totalL=9, WinMoney=480
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=480
+startL=7, WinMoney=275
+startL=8, WinMoney=127
+startL=9, WinMoney=47
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=50
+totalL=6, WinMoney=-369
+totalL=7, WinMoney=480
+totalL=8, WinMoney=480
+totalL=9, WinMoney=480
+第27轮测试
+count= 1, size=  1384, rate=7.6889
+count= 2, size=   672, rate=3.7333
+count= 3, size=   340, rate=1.8889
+count= 4, size=   168, rate=0.9333
+count= 5, size=    75, rate=0.4167
+count= 6, size=    43, rate=0.2389
+count= 7, size=    19, rate=0.1056
+count= 8, size=    11, rate=0.0611
+count= 9, size=     4, rate=0.0222
+count=10, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=444
+startL=7, WinMoney=274
+startL=8, WinMoney=114
+startL=9, WinMoney=40
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=444
+totalL=6, WinMoney=444
+totalL=7, WinMoney=444
+totalL=8, WinMoney=444
+totalL=9, WinMoney=444
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=444
+startL=7, WinMoney=274
+startL=8, WinMoney=114
+startL=9, WinMoney=40
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=444
+totalL=6, WinMoney=444
+totalL=7, WinMoney=444
+totalL=8, WinMoney=444
+totalL=9, WinMoney=444
+第28轮测试
+count= 1, size=  1348, rate=7.4889
+count= 2, size=   678, rate=3.7667
+count= 3, size=   322, rate=1.7889
+count= 4, size=   184, rate=1.0222
+count= 5, size=    91, rate=0.5056
+count= 6, size=    31, rate=0.1722
+count= 7, size=    24, rate=0.1333
+count= 8, size=     4, rate=0.0222
+count= 9, size=     4, rate=0.0222
+count=10, size=     4, rate=0.0222
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=447
+startL=7, WinMoney=269
+startL=8, WinMoney=126
+startL=9, WinMoney=79
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-388
+totalL=6, WinMoney=-392
+totalL=7, WinMoney=447
+totalL=8, WinMoney=447
+totalL=9, WinMoney=447
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=447
+startL=7, WinMoney=269
+startL=8, WinMoney=126
+startL=9, WinMoney=79
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-388
+totalL=6, WinMoney=-392
+totalL=7, WinMoney=447
+totalL=8, WinMoney=447
+totalL=9, WinMoney=447
+第29轮测试
+count= 1, size=  1389, rate=7.7167
+count= 2, size=   683, rate=3.7944
+count= 3, size=   345, rate=1.9167
+count= 4, size=   154, rate=0.8556
+count= 5, size=    80, rate=0.4444
+count= 6, size=    45, rate=0.2500
+count= 7, size=    18, rate=0.1000
+count= 8, size=    10, rate=0.0556
+count= 9, size=     2, rate=0.0111
+count=10, size=     3, rate=0.0167
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=409
+startL=7, WinMoney=224
+startL=8, WinMoney=141
+startL=9, WinMoney=57
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=409
+totalL=6, WinMoney=409
+totalL=7, WinMoney=409
+totalL=8, WinMoney=409
+totalL=9, WinMoney=409
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=409
+startL=7, WinMoney=224
+startL=8, WinMoney=141
+startL=9, WinMoney=57
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=409
+totalL=6, WinMoney=409
+totalL=7, WinMoney=409
+totalL=8, WinMoney=409
+totalL=9, WinMoney=409
+第30轮测试
+count= 1, size=  1530, rate=8.5000
+count= 2, size=   722, rate=4.0111
+count= 3, size=   329, rate=1.8278
+count= 4, size=   142, rate=0.7889
+count= 5, size=    82, rate=0.4556
+count= 6, size=    33, rate=0.1833
+count= 7, size=    16, rate=0.0889
+count= 8, size=     5, rate=0.0278
+count= 9, size=     1, rate=0.0056
+count=10, size=     3, rate=0.0167
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=471
+startL=7, WinMoney=255
+startL=8, WinMoney=100
+startL=9, WinMoney=48
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=40
+totalL=6, WinMoney=-378
+totalL=7, WinMoney=471
+totalL=8, WinMoney=471
+totalL=9, WinMoney=471
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=471
+startL=7, WinMoney=255
+startL=8, WinMoney=100
+startL=9, WinMoney=48
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=40
+totalL=6, WinMoney=-378
+totalL=7, WinMoney=471
+totalL=8, WinMoney=471
+totalL=9, WinMoney=471
+第31轮测试
+count= 1, size=  1396, rate=7.7556
+count= 2, size=   666, rate=3.7000
+count= 3, size=   325, rate=1.8056
+count= 4, size=   156, rate=0.8667
+count= 5, size=    65, rate=0.3611
+count= 6, size=    71, rate=0.3944
+count= 7, size=    20, rate=0.1111
+count= 8, size=     5, rate=0.0278
+count= 9, size=     1, rate=0.0056
+count=10, size=     6, rate=0.0333
+count=14, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2883
+startL=7, WinMoney=398
+startL=8, WinMoney=192
+startL=9, WinMoney=105
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=187
+totalL=6, WinMoney=-224
+totalL=7, WinMoney=-1082
+totalL=8, WinMoney=-2883
+totalL=9, WinMoney=851
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2883
+startL=7, WinMoney=398
+startL=8, WinMoney=192
+startL=9, WinMoney=105
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=187
+totalL=6, WinMoney=-224
+totalL=7, WinMoney=-1082
+totalL=8, WinMoney=-2883
+totalL=9, WinMoney=851
+第32轮测试
+count= 1, size=  1372, rate=7.6222
+count= 2, size=   687, rate=3.8167
+count= 3, size=   311, rate=1.7278
+count= 4, size=   182, rate=1.0111
+count= 5, size=    74, rate=0.4111
+count= 6, size=    45, rate=0.2500
+count= 7, size=    22, rate=0.1222
+count= 8, size=     6, rate=0.0333
+count=10, size=     6, rate=0.0333
+count=11, size=     1, rate=0.0056
+count=12, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=591
+startL=7, WinMoney=294
+startL=8, WinMoney=128
+startL=9, WinMoney=76
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-260
+totalL=6, WinMoney=-1087
+totalL=7, WinMoney=591
+totalL=8, WinMoney=591
+totalL=9, WinMoney=591
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=591
+startL=7, WinMoney=294
+startL=8, WinMoney=128
+startL=9, WinMoney=76
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-260
+totalL=6, WinMoney=-1087
+totalL=7, WinMoney=591
+totalL=8, WinMoney=591
+totalL=9, WinMoney=591
+第33轮测试
+count= 1, size=  1409, rate=7.8278
+count= 2, size=   686, rate=3.8111
+count= 3, size=   350, rate=1.9444
+count= 4, size=   149, rate=0.8278
+count= 5, size=    89, rate=0.4944
+count= 6, size=    27, rate=0.1500
+count= 7, size=    25, rate=0.1389
+count= 8, size=     9, rate=0.0500
+count= 9, size=     5, rate=0.0278
+count=10, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=417
+startL=7, WinMoney=274
+startL=8, WinMoney=105
+startL=9, WinMoney=50
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=417
+totalL=6, WinMoney=417
+totalL=7, WinMoney=417
+totalL=8, WinMoney=417
+totalL=9, WinMoney=417
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=417
+startL=7, WinMoney=274
+startL=8, WinMoney=105
+startL=9, WinMoney=50
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=417
+totalL=6, WinMoney=417
+totalL=7, WinMoney=417
+totalL=8, WinMoney=417
+totalL=9, WinMoney=417
+第34轮测试
+count= 1, size=  1384, rate=7.6889
+count= 2, size=   651, rate=3.6167
+count= 3, size=   324, rate=1.8000
+count= 4, size=   153, rate=0.8500
+count= 5, size=    77, rate=0.4278
+count= 6, size=    31, rate=0.1722
+count= 7, size=    27, rate=0.1500
+count= 8, size=    10, rate=0.0556
+count= 9, size=     7, rate=0.0389
+count=10, size=     3, rate=0.0167
+count=11, size=     4, rate=0.0222
+count=12, size=     2, rate=0.0111
+count=13, size=     1, rate=0.0056
+count=16, size=     2, rate=0.0111
+count=17, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-6168
+startL=7, WinMoney=-6447
+startL=8, WinMoney=-6628
+startL=9, WinMoney=-3140
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1752
+totalL=6, WinMoney=-3411
+totalL=7, WinMoney=-4327
+totalL=8, WinMoney=-6168
+totalL=9, WinMoney=-6193
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-6168
+startL=7, WinMoney=-6447
+startL=8, WinMoney=-6628
+startL=9, WinMoney=-3140
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1752
+totalL=6, WinMoney=-3411
+totalL=7, WinMoney=-4327
+totalL=8, WinMoney=-6168
+totalL=9, WinMoney=-6193
+第35轮测试
+count= 1, size=  1324, rate=7.3556
+count= 2, size=   618, rate=3.4333
+count= 3, size=   361, rate=2.0056
+count= 4, size=   154, rate=0.8556
+count= 5, size=    85, rate=0.4722
+count= 6, size=    49, rate=0.2722
+count= 7, size=    11, rate=0.0611
+count= 8, size=    12, rate=0.0667
+count= 9, size=    16, rate=0.0889
+count=10, size=     3, rate=0.0167
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=543
+startL=7, WinMoney=315
+startL=8, WinMoney=220
+startL=9, WinMoney=134
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=143
+totalL=6, WinMoney=543
+totalL=7, WinMoney=543
+totalL=8, WinMoney=543
+totalL=9, WinMoney=543
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=543
+startL=7, WinMoney=315
+startL=8, WinMoney=220
+startL=9, WinMoney=134
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=143
+totalL=6, WinMoney=543
+totalL=7, WinMoney=543
+totalL=8, WinMoney=543
+totalL=9, WinMoney=543
+第36轮测试
+count= 1, size=  1303, rate=7.2389
+count= 2, size=   640, rate=3.5556
+count= 3, size=   373, rate=2.0722
+count= 4, size=   169, rate=0.9389
+count= 5, size=    78, rate=0.4333
+count= 6, size=    48, rate=0.2667
+count= 7, size=    18, rate=0.1000
+count= 8, size=     7, rate=0.0389
+count= 9, size=     6, rate=0.0333
+count=10, size=     3, rate=0.0167
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=419
+startL=7, WinMoney=222
+startL=8, WinMoney=127
+startL=9, WinMoney=84
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=25
+totalL=6, WinMoney=419
+totalL=7, WinMoney=419
+totalL=8, WinMoney=419
+totalL=9, WinMoney=419
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=419
+startL=7, WinMoney=222
+startL=8, WinMoney=127
+startL=9, WinMoney=84
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=25
+totalL=6, WinMoney=419
+totalL=7, WinMoney=419
+totalL=8, WinMoney=419
+totalL=9, WinMoney=419
+第37轮测试
+count= 1, size=  1352, rate=7.5111
+count= 2, size=   719, rate=3.9944
+count= 3, size=   344, rate=1.9111
+count= 4, size=   146, rate=0.8111
+count= 5, size=    89, rate=0.4944
+count= 6, size=    39, rate=0.2167
+count= 7, size=    23, rate=0.1278
+count= 8, size=     8, rate=0.0444
+count= 9, size=     4, rate=0.0222
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=471
+startL=7, WinMoney=264
+startL=8, WinMoney=81
+startL=9, WinMoney=29
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=471
+totalL=6, WinMoney=471
+totalL=7, WinMoney=471
+totalL=8, WinMoney=471
+totalL=9, WinMoney=471
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=471
+startL=7, WinMoney=264
+startL=8, WinMoney=81
+startL=9, WinMoney=29
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=471
+totalL=6, WinMoney=471
+totalL=7, WinMoney=471
+totalL=8, WinMoney=471
+totalL=9, WinMoney=471
+第38轮测试
+count= 1, size=  1290, rate=7.1667
+count= 2, size=   679, rate=3.7722
+count= 3, size=   308, rate=1.7111
+count= 4, size=   179, rate=0.9944
+count= 5, size=    78, rate=0.4333
+count= 6, size=    44, rate=0.2444
+count= 7, size=    25, rate=0.1389
+count= 8, size=    11, rate=0.0611
+count= 9, size=     6, rate=0.0333
+count=10, size=     3, rate=0.0167
+count=11, size=     3, rate=0.0167
+count=12, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=570
+startL=7, WinMoney=323
+startL=8, WinMoney=165
+startL=9, WinMoney=99
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-229
+totalL=6, WinMoney=570
+totalL=7, WinMoney=570
+totalL=8, WinMoney=570
+totalL=9, WinMoney=570
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=570
+startL=7, WinMoney=323
+startL=8, WinMoney=165
+startL=9, WinMoney=99
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-229
+totalL=6, WinMoney=570
+totalL=7, WinMoney=570
+totalL=8, WinMoney=570
+totalL=9, WinMoney=570
+第39轮测试
+count= 1, size=  1425, rate=7.9167
+count= 2, size=   710, rate=3.9444
+count= 3, size=   327, rate=1.8167
+count= 4, size=   167, rate=0.9278
+count= 5, size=    74, rate=0.4111
+count= 6, size=    31, rate=0.1722
+count= 7, size=    15, rate=0.0833
+count= 8, size=    18, rate=0.1000
+count= 9, size=     2, rate=0.0111
+count=10, size=     2, rate=0.0111
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=446
+startL=7, WinMoney=262
+startL=8, WinMoney=144
+startL=9, WinMoney=41
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=446
+totalL=6, WinMoney=446
+totalL=7, WinMoney=446
+totalL=8, WinMoney=446
+totalL=9, WinMoney=446
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=446
+startL=7, WinMoney=262
+startL=8, WinMoney=144
+startL=9, WinMoney=41
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=446
+totalL=6, WinMoney=446
+totalL=7, WinMoney=446
+totalL=8, WinMoney=446
+totalL=9, WinMoney=446
+第40轮测试
+count= 1, size=  1297, rate=7.2056
+count= 2, size=   733, rate=4.0722
+count= 3, size=   334, rate=1.8556
+count= 4, size=   170, rate=0.9444
+count= 5, size=    80, rate=0.4444
+count= 6, size=    46, rate=0.2556
+count= 7, size=    19, rate=0.1056
+count= 8, size=     5, rate=0.0278
+count= 9, size=     3, rate=0.0167
+count=10, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=408
+startL=7, WinMoney=211
+startL=8, WinMoney=82
+startL=9, WinMoney=30
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=408
+totalL=6, WinMoney=408
+totalL=7, WinMoney=408
+totalL=8, WinMoney=408
+totalL=9, WinMoney=408
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=408
+startL=7, WinMoney=211
+startL=8, WinMoney=82
+startL=9, WinMoney=30
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=408
+totalL=6, WinMoney=408
+totalL=7, WinMoney=408
+totalL=8, WinMoney=408
+totalL=9, WinMoney=408
+第41轮测试
+count= 1, size=  1389, rate=7.7167
+count= 2, size=   623, rate=3.4611
+count= 3, size=   336, rate=1.8667
+count= 4, size=   185, rate=1.0278
+count= 5, size=   106, rate=0.5889
+count= 6, size=    36, rate=0.2000
+count= 7, size=     5, rate=0.0278
+count= 8, size=     8, rate=0.0444
+count= 9, size=     6, rate=0.0333
+count=10, size=     3, rate=0.0167
+count=11, size=     1, rate=0.0056
+count=12, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=502
+startL=7, WinMoney=251
+startL=8, WinMoney=174
+startL=9, WinMoney=99
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=71
+totalL=6, WinMoney=-347
+totalL=7, WinMoney=502
+totalL=8, WinMoney=502
+totalL=9, WinMoney=502
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=502
+startL=7, WinMoney=251
+startL=8, WinMoney=174
+startL=9, WinMoney=99
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=71
+totalL=6, WinMoney=-347
+totalL=7, WinMoney=502
+totalL=8, WinMoney=502
+totalL=9, WinMoney=502
+第42轮测试
+count= 1, size=  1269, rate=7.0500
+count= 2, size=   655, rate=3.6389
+count= 3, size=   344, rate=1.9111
+count= 4, size=   180, rate=1.0000
+count= 5, size=   107, rate=0.5944
+count= 6, size=    33, rate=0.1833
+count= 7, size=    16, rate=0.0889
+count= 8, size=    11, rate=0.0611
+count= 9, size=     7, rate=0.0389
+count=10, size=     1, rate=0.0056
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=438
+startL=7, WinMoney=265
+startL=8, WinMoney=176
+startL=9, WinMoney=72
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=438
+totalL=6, WinMoney=438
+totalL=7, WinMoney=438
+totalL=8, WinMoney=438
+totalL=9, WinMoney=438
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=438
+startL=7, WinMoney=265
+startL=8, WinMoney=176
+startL=9, WinMoney=72
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=438
+totalL=6, WinMoney=438
+totalL=7, WinMoney=438
+totalL=8, WinMoney=438
+totalL=9, WinMoney=438
+第43轮测试
+count= 1, size=  1390, rate=7.7222
+count= 2, size=   666, rate=3.7000
+count= 3, size=   317, rate=1.7611
+count= 4, size=   151, rate=0.8389
+count= 5, size=   105, rate=0.5833
+count= 6, size=    34, rate=0.1889
+count= 7, size=    20, rate=0.1111
+count= 8, size=     9, rate=0.0500
+count= 9, size=     7, rate=0.0389
+count=10, size=     4, rate=0.0222
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=425
+startL=7, WinMoney=261
+startL=8, WinMoney=128
+startL=9, WinMoney=73
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=425
+totalL=6, WinMoney=425
+totalL=7, WinMoney=425
+totalL=8, WinMoney=425
+totalL=9, WinMoney=425
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=425
+startL=7, WinMoney=261
+startL=8, WinMoney=128
+startL=9, WinMoney=73
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=425
+totalL=6, WinMoney=425
+totalL=7, WinMoney=425
+totalL=8, WinMoney=425
+totalL=9, WinMoney=425
+第44轮测试
+count=16, size=     1, rate=0.0056
+count= 1, size=  1298, rate=7.2111
+count= 2, size=   686, rate=3.8111
+count= 3, size=   336, rate=1.8667
+count= 4, size=   185, rate=1.0278
+count= 5, size=    73, rate=0.4056
+count= 6, size=    39, rate=0.2167
+count= 7, size=    24, rate=0.1333
+count= 8, size=     9, rate=0.0500
+count= 9, size=     9, rate=0.0500
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-3007
+startL=7, WinMoney=-3147
+startL=8, WinMoney=-3276
+startL=9, WinMoney=-3360
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-67
+totalL=6, WinMoney=-485
+totalL=7, WinMoney=-1250
+totalL=8, WinMoney=-3007
+totalL=9, WinMoney=-6768
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-3007
+startL=7, WinMoney=-3147
+startL=8, WinMoney=-3276
+startL=9, WinMoney=-3360
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-67
+totalL=6, WinMoney=-485
+totalL=7, WinMoney=-1250
+totalL=8, WinMoney=-3007
+totalL=9, WinMoney=-6768
+第45轮测试
+count= 1, size=  1339, rate=7.4389
+count=17, size=     1, rate=0.0056
+count= 2, size=   613, rate=3.4056
+count= 3, size=   323, rate=1.7944
+count= 4, size=   198, rate=1.1000
+count= 5, size=    57, rate=0.3167
+count= 6, size=    42, rate=0.2333
+count= 7, size=    16, rate=0.0889
+count= 8, size=    19, rate=0.1056
+count= 9, size=    11, rate=0.0611
+count=10, size=     4, rate=0.0222
+count=11, size=     5, rate=0.0278
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2917
+startL=7, WinMoney=-3123
+startL=8, WinMoney=-3213
+startL=9, WinMoney=-3302
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=172
+totalL=6, WinMoney=-245
+totalL=7, WinMoney=-1112
+totalL=8, WinMoney=-2917
+totalL=9, WinMoney=-6701
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2917
+startL=7, WinMoney=-3123
+startL=8, WinMoney=-3213
+startL=9, WinMoney=-3302
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=172
+totalL=6, WinMoney=-245
+totalL=7, WinMoney=-1112
+totalL=8, WinMoney=-2917
+totalL=9, WinMoney=-6701
+第46轮测试
+count= 1, size=  1424, rate=7.9111
+count= 2, size=   694, rate=3.8556
+count= 3, size=   321, rate=1.7833
+count= 4, size=   176, rate=0.9778
+count= 5, size=    80, rate=0.4444
+count= 6, size=    47, rate=0.2611
+count= 7, size=    14, rate=0.0778
+count= 8, size=     3, rate=0.0167
+count= 9, size=     4, rate=0.0222
+count=13, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=564
+startL=7, WinMoney=245
+startL=8, WinMoney=104
+startL=9, WinMoney=54
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=58
+totalL=6, WinMoney=-351
+totalL=7, WinMoney=-1219
+totalL=8, WinMoney=564
+totalL=9, WinMoney=564
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=564
+startL=7, WinMoney=245
+startL=8, WinMoney=104
+startL=9, WinMoney=54
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=58
+totalL=6, WinMoney=-351
+totalL=7, WinMoney=-1219
+totalL=8, WinMoney=564
+totalL=9, WinMoney=564
+第47轮测试
+count= 1, size=  1387, rate=7.7056
+count= 2, size=   602, rate=3.3444
+count= 3, size=   332, rate=1.8444
+count= 4, size=   178, rate=0.9889
+count= 5, size=   106, rate=0.5889
+count= 6, size=    46, rate=0.2556
+count= 7, size=    15, rate=0.0833
+count= 8, size=     7, rate=0.0389
+count= 9, size=     2, rate=0.0111
+count=10, size=     2, rate=0.0111
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+count=13, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=661
+startL=7, WinMoney=310
+startL=8, WinMoney=167
+startL=9, WinMoney=84
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-267
+totalL=6, WinMoney=-1104
+totalL=7, WinMoney=-1122
+totalL=8, WinMoney=661
+totalL=9, WinMoney=661
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=661
+startL=7, WinMoney=310
+startL=8, WinMoney=167
+startL=9, WinMoney=84
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-267
+totalL=6, WinMoney=-1104
+totalL=7, WinMoney=-1122
+totalL=8, WinMoney=661
+totalL=9, WinMoney=661
+第48轮测试
+count= 1, size=  1366, rate=7.5889
+count= 2, size=   653, rate=3.6278
+count= 3, size=   364, rate=2.0222
+count= 4, size=   197, rate=1.0944
+count= 5, size=    65, rate=0.3611
+count= 6, size=    37, rate=0.2056
+count= 7, size=    16, rate=0.0889
+count= 8, size=     7, rate=0.0389
+count= 9, size=     5, rate=0.0278
+count=10, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=435
+startL=7, WinMoney=235
+startL=8, WinMoney=99
+startL=9, WinMoney=71
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=435
+totalL=6, WinMoney=435
+totalL=7, WinMoney=435
+totalL=8, WinMoney=435
+totalL=9, WinMoney=435
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=435
+startL=7, WinMoney=235
+startL=8, WinMoney=99
+startL=9, WinMoney=71
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=435
+totalL=6, WinMoney=435
+totalL=7, WinMoney=435
+totalL=8, WinMoney=435
+totalL=9, WinMoney=435
+第49轮测试
+count= 1, size=  1369, rate=7.6056
+count= 2, size=   632, rate=3.5111
+count= 3, size=   311, rate=1.7278
+count= 4, size=   170, rate=0.9444
+count= 5, size=    90, rate=0.5000
+count= 6, size=    45, rate=0.2500
+count= 7, size=    25, rate=0.1389
+count= 8, size=    13, rate=0.0722
+count= 9, size=     6, rate=0.0333
+count=10, size=     3, rate=0.0167
+count=11, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=535
+startL=7, WinMoney=336
+startL=8, WinMoney=174
+startL=9, WinMoney=83
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=535
+totalL=6, WinMoney=535
+totalL=7, WinMoney=535
+totalL=8, WinMoney=535
+totalL=9, WinMoney=535
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=535
+startL=7, WinMoney=336
+startL=8, WinMoney=174
+startL=9, WinMoney=83
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=535
+totalL=6, WinMoney=535
+totalL=7, WinMoney=535
+totalL=8, WinMoney=535
+totalL=9, WinMoney=535
+第50轮测试
+count= 1, size=  1508, rate=8.3778
+count= 2, size=   591, rate=3.2833
+count= 3, size=   310, rate=1.7222
+count= 4, size=   191, rate=1.0611
+count= 5, size=    87, rate=0.4833
+count= 6, size=    33, rate=0.1833
+count= 7, size=    24, rate=0.1333
+count= 8, size=    12, rate=0.0667
+count= 9, size=     4, rate=0.0222
+count=11, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=432
+startL=7, WinMoney=275
+startL=8, WinMoney=179
+startL=9, WinMoney=62
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=432
+totalL=6, WinMoney=432
+totalL=7, WinMoney=432
+totalL=8, WinMoney=432
+totalL=9, WinMoney=432
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=432
+startL=7, WinMoney=275
+startL=8, WinMoney=179
+startL=9, WinMoney=62
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=432
+totalL=6, WinMoney=432
+totalL=7, WinMoney=432
+totalL=8, WinMoney=432
+totalL=9, WinMoney=432
+第51轮测试
+count= 1, size=  1298, rate=7.2111
+count= 2, size=   679, rate=3.7722
+count= 3, size=   363, rate=2.0167
+count= 4, size=   157, rate=0.8722
+count= 5, size=    92, rate=0.5111
+count= 6, size=    31, rate=0.1722
+count= 7, size=    14, rate=0.0778
+count= 8, size=    16, rate=0.0889
+count= 9, size=     4, rate=0.0222
+count=10, size=     3, rate=0.0167
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=453
+startL=7, WinMoney=230
+startL=8, WinMoney=154
+startL=9, WinMoney=74
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=49
+totalL=6, WinMoney=453
+totalL=7, WinMoney=453
+totalL=8, WinMoney=453
+totalL=9, WinMoney=453
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=453
+startL=7, WinMoney=230
+startL=8, WinMoney=154
+startL=9, WinMoney=74
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=49
+totalL=6, WinMoney=453
+totalL=7, WinMoney=453
+totalL=8, WinMoney=453
+totalL=9, WinMoney=453
+第52轮测试
+count= 1, size=  1293, rate=7.1833
+count= 2, size=   673, rate=3.7389
+count= 3, size=   287, rate=1.5944
+count= 4, size=   186, rate=1.0333
+count= 5, size=    83, rate=0.4611
+count= 6, size=    42, rate=0.2333
+count= 7, size=    33, rate=0.1833
+count= 8, size=    12, rate=0.0667
+count= 9, size=     8, rate=0.0444
+count=10, size=     5, rate=0.0278
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=485
+startL=7, WinMoney=300
+startL=8, WinMoney=144
+startL=9, WinMoney=102
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=485
+totalL=6, WinMoney=485
+totalL=7, WinMoney=485
+totalL=8, WinMoney=485
+totalL=9, WinMoney=485
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=485
+startL=7, WinMoney=300
+startL=8, WinMoney=144
+startL=9, WinMoney=102
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=485
+totalL=6, WinMoney=485
+totalL=7, WinMoney=485
+totalL=8, WinMoney=485
+totalL=9, WinMoney=485
+第53轮测试
+count= 1, size=  1356, rate=7.5333
+count= 2, size=   629, rate=3.4944
+count= 3, size=   347, rate=1.9278
+count= 4, size=   172, rate=0.9556
+count= 5, size=    91, rate=0.5056
+count= 6, size=    42, rate=0.2333
+count= 7, size=    17, rate=0.0944
+count= 8, size=    11, rate=0.0611
+count= 9, size=     3, rate=0.0167
+count=10, size=     1, rate=0.0056
+count=11, size=     2, rate=0.0111
+count=13, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=607
+startL=7, WinMoney=316
+startL=8, WinMoney=168
+startL=9, WinMoney=80
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-303
+totalL=6, WinMoney=-307
+totalL=7, WinMoney=-1166
+totalL=8, WinMoney=607
+totalL=9, WinMoney=607
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=607
+startL=7, WinMoney=316
+startL=8, WinMoney=168
+startL=9, WinMoney=80
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-303
+totalL=6, WinMoney=-307
+totalL=7, WinMoney=-1166
+totalL=8, WinMoney=607
+totalL=9, WinMoney=607
+第54轮测试
+count= 1, size=  1322, rate=7.3444
+count= 2, size=   689, rate=3.8278
+count= 3, size=   353, rate=1.9611
+count= 4, size=   197, rate=1.0944
+count= 5, size=    66, rate=0.3667
+count= 6, size=    30, rate=0.1667
+count= 7, size=    20, rate=0.1111
+count= 8, size=     4, rate=0.0222
+count= 9, size=     7, rate=0.0389
+count=10, size=     4, rate=0.0222
+count=11, size=     1, rate=0.0056
+count=13, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=527
+startL=7, WinMoney=299
+startL=8, WinMoney=157
+startL=9, WinMoney=108
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-381
+totalL=6, WinMoney=-387
+totalL=7, WinMoney=-1246
+totalL=8, WinMoney=527
+totalL=9, WinMoney=527
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=527
+startL=7, WinMoney=299
+startL=8, WinMoney=157
+startL=9, WinMoney=108
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-381
+totalL=6, WinMoney=-387
+totalL=7, WinMoney=-1246
+totalL=8, WinMoney=527
+totalL=9, WinMoney=527
+第55轮测试
+count= 1, size=  1287, rate=7.1500
+count= 2, size=   637, rate=3.5389
+count= 3, size=   330, rate=1.8333
+count= 4, size=   166, rate=0.9222
+count= 5, size=   101, rate=0.5611
+count= 6, size=    52, rate=0.2889
+count= 7, size=    18, rate=0.1000
+count= 8, size=    13, rate=0.0722
+count= 9, size=     2, rate=0.0111
+count=10, size=     1, rate=0.0056
+count=11, size=     5, rate=0.0278
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=493
+startL=7, WinMoney=270
+startL=8, WinMoney=173
+startL=9, WinMoney=68
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-296
+totalL=6, WinMoney=493
+totalL=7, WinMoney=493
+totalL=8, WinMoney=493
+totalL=9, WinMoney=493
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=493
+startL=7, WinMoney=270
+startL=8, WinMoney=173
+startL=9, WinMoney=68
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-296
+totalL=6, WinMoney=493
+totalL=7, WinMoney=493
+totalL=8, WinMoney=493
+totalL=9, WinMoney=493
+第56轮测试
+count= 1, size=  1350, rate=7.5000
+count= 2, size=   645, rate=3.5833
+count= 3, size=   345, rate=1.9167
+count= 4, size=   156, rate=0.8667
+count= 5, size=    82, rate=0.4556
+count= 6, size=    57, rate=0.3167
+count= 7, size=    16, rate=0.0889
+count= 8, size=     9, rate=0.0500
+count= 9, size=     8, rate=0.0444
+count=10, size=     1, rate=0.0056
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=494
+startL=7, WinMoney=251
+startL=8, WinMoney=135
+startL=9, WinMoney=83
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=90
+totalL=6, WinMoney=494
+totalL=7, WinMoney=494
+totalL=8, WinMoney=494
+totalL=9, WinMoney=494
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=494
+startL=7, WinMoney=251
+startL=8, WinMoney=135
+startL=9, WinMoney=83
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=90
+totalL=6, WinMoney=494
+totalL=7, WinMoney=494
+totalL=8, WinMoney=494
+totalL=9, WinMoney=494
+第57轮测试
+count= 1, size=  1340, rate=7.4444
+count= 2, size=   693, rate=3.8500
+count= 3, size=   375, rate=2.0833
+count= 4, size=   164, rate=0.9111
+count= 5, size=    75, rate=0.4167
+count= 6, size=    38, rate=0.2111
+count= 7, size=    18, rate=0.1000
+count= 8, size=     9, rate=0.0500
+count= 9, size=     1, rate=0.0056
+count=10, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=398
+startL=7, WinMoney=223
+startL=8, WinMoney=102
+startL=9, WinMoney=20
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=398
+totalL=6, WinMoney=398
+totalL=7, WinMoney=398
+totalL=8, WinMoney=398
+totalL=9, WinMoney=398
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=398
+startL=7, WinMoney=223
+startL=8, WinMoney=102
+startL=9, WinMoney=20
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=398
+totalL=6, WinMoney=398
+totalL=7, WinMoney=398
+totalL=8, WinMoney=398
+totalL=9, WinMoney=398
+第58轮测试
+count= 1, size=  1392, rate=7.7333
+count= 2, size=   735, rate=4.0833
+count= 3, size=   313, rate=1.7389
+count= 4, size=   164, rate=0.9111
+count= 5, size=    76, rate=0.4222
+count= 6, size=    40, rate=0.2222
+count= 7, size=    21, rate=0.1167
+count= 8, size=     9, rate=0.0500
+count= 9, size=     3, rate=0.0167
+count=10, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=379
+startL=7, WinMoney=212
+startL=8, WinMoney=74
+startL=9, WinMoney=21
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=379
+totalL=6, WinMoney=379
+totalL=7, WinMoney=379
+totalL=8, WinMoney=379
+totalL=9, WinMoney=379
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=379
+startL=7, WinMoney=212
+startL=8, WinMoney=74
+startL=9, WinMoney=21
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=379
+totalL=6, WinMoney=379
+totalL=7, WinMoney=379
+totalL=8, WinMoney=379
+totalL=9, WinMoney=379
+第59轮测试
+count= 1, size=  1371, rate=7.6167
+count= 2, size=   670, rate=3.7222
+count= 3, size=   321, rate=1.7833
+count= 4, size=   154, rate=0.8556
+count= 5, size=    96, rate=0.5333
+count= 6, size=    28, rate=0.1556
+count= 7, size=    19, rate=0.1056
+count= 8, size=    11, rate=0.0611
+count= 9, size=     2, rate=0.0111
+count=10, size=     7, rate=0.0389
+count=11, size=     7, rate=0.0389
+count=12, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=511
+startL=7, WinMoney=331
+startL=8, WinMoney=207
+startL=9, WinMoney=140
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=80
+totalL=6, WinMoney=-338
+totalL=7, WinMoney=511
+totalL=8, WinMoney=511
+totalL=9, WinMoney=511
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=511
+startL=7, WinMoney=331
+startL=8, WinMoney=207
+startL=9, WinMoney=140
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=80
+totalL=6, WinMoney=-338
+totalL=7, WinMoney=511
+totalL=8, WinMoney=511
+totalL=9, WinMoney=511
+第60轮测试
+count= 1, size=  1340, rate=7.4444
+count= 2, size=   668, rate=3.7111
+count= 3, size=   338, rate=1.8778
+count= 4, size=   171, rate=0.9500
+count= 5, size=    84, rate=0.4667
+count= 6, size=    46, rate=0.2556
+count= 7, size=    17, rate=0.0944
+count= 8, size=     9, rate=0.0500
+count= 9, size=     5, rate=0.0278
+count=10, size=     4, rate=0.0222
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=349
+startL=7, WinMoney=221
+startL=8, WinMoney=99
+startL=9, WinMoney=52
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=349
+totalL=6, WinMoney=349
+totalL=7, WinMoney=349
+totalL=8, WinMoney=349
+totalL=9, WinMoney=349
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=349
+startL=7, WinMoney=221
+startL=8, WinMoney=99
+startL=9, WinMoney=52
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=349
+totalL=6, WinMoney=349
+totalL=7, WinMoney=349
+totalL=8, WinMoney=349
+totalL=9, WinMoney=349
+第61轮测试
+count= 1, size=  1357, rate=7.5389
+count= 2, size=   681, rate=3.7833
+count= 3, size=   309, rate=1.7167
+count= 4, size=   184, rate=1.0222
+count= 5, size=    77, rate=0.4278
+count= 6, size=    52, rate=0.2889
+count= 7, size=     8, rate=0.0444
+count= 8, size=     9, rate=0.0500
+count= 9, size=     4, rate=0.0222
+count=10, size=     5, rate=0.0278
+count=11, size=     3, rate=0.0167
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=540
+startL=7, WinMoney=272
+startL=8, WinMoney=189
+startL=9, WinMoney=101
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-295
+totalL=6, WinMoney=-309
+totalL=7, WinMoney=540
+totalL=8, WinMoney=540
+totalL=9, WinMoney=540
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=540
+startL=7, WinMoney=272
+startL=8, WinMoney=189
+startL=9, WinMoney=101
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-295
+totalL=6, WinMoney=-309
+totalL=7, WinMoney=540
+totalL=8, WinMoney=540
+totalL=9, WinMoney=540
+第62轮测试
+count= 1, size=  1292, rate=7.1778
+count= 2, size=   689, rate=3.8278
+count= 3, size=   335, rate=1.8611
+count= 4, size=   188, rate=1.0444
+count= 5, size=    76, rate=0.4222
+count= 6, size=    38, rate=0.2111
+count= 7, size=    17, rate=0.0944
+count= 8, size=    12, rate=0.0667
+count= 9, size=     5, rate=0.0278
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+count=13, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=406
+startL=7, WinMoney=243
+startL=8, WinMoney=143
+startL=9, WinMoney=51
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-432
+totalL=6, WinMoney=-433
+totalL=7, WinMoney=406
+totalL=8, WinMoney=406
+totalL=9, WinMoney=406
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=406
+startL=7, WinMoney=243
+startL=8, WinMoney=143
+startL=9, WinMoney=51
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-432
+totalL=6, WinMoney=-433
+totalL=7, WinMoney=406
+totalL=8, WinMoney=406
+totalL=9, WinMoney=406
+第63轮测试
+count= 1, size=  1342, rate=7.4556
+count= 2, size=   715, rate=3.9722
+count= 3, size=   366, rate=2.0333
+count= 4, size=   125, rate=0.6944
+count= 5, size=    61, rate=0.3389
+count= 6, size=    54, rate=0.3000
+count= 7, size=    24, rate=0.1333
+count= 8, size=    13, rate=0.0722
+count=10, size=     2, rate=0.0111
+count=11, size=     2, rate=0.0111
+count=12, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=576
+startL=7, WinMoney=329
+startL=8, WinMoney=184
+startL=9, WinMoney=69
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-232
+totalL=6, WinMoney=576
+totalL=7, WinMoney=576
+totalL=8, WinMoney=576
+totalL=9, WinMoney=576
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=576
+startL=7, WinMoney=329
+startL=8, WinMoney=184
+startL=9, WinMoney=69
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-232
+totalL=6, WinMoney=576
+totalL=7, WinMoney=576
+totalL=8, WinMoney=576
+totalL=9, WinMoney=576
+第64轮测试
+count= 1, size=  1338, rate=7.4333
+count= 2, size=   697, rate=3.8722
+count= 3, size=   318, rate=1.7667
+count= 4, size=   156, rate=0.8667
+count= 5, size=    68, rate=0.3778
+count= 6, size=    42, rate=0.2333
+count= 7, size=    30, rate=0.1667
+count= 8, size=     9, rate=0.0500
+count= 9, size=     5, rate=0.0278
+count=10, size=     7, rate=0.0389
+count=11, size=     2, rate=0.0111
+count=12, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=583
+startL=7, WinMoney=441
+startL=8, WinMoney=248
+startL=9, WinMoney=145
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=179
+totalL=6, WinMoney=583
+totalL=7, WinMoney=583
+totalL=8, WinMoney=583
+totalL=9, WinMoney=583
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=583
+startL=7, WinMoney=441
+startL=8, WinMoney=248
+startL=9, WinMoney=145
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=179
+totalL=6, WinMoney=583
+totalL=7, WinMoney=583
+totalL=8, WinMoney=583
+totalL=9, WinMoney=583
+第65轮测试
+count= 1, size=  1369, rate=7.6056
+count= 2, size=   643, rate=3.5722
+count= 3, size=   327, rate=1.8167
+count= 4, size=   160, rate=0.8889
+count= 5, size=    85, rate=0.4722
+count= 6, size=    55, rate=0.3056
+count= 7, size=    17, rate=0.0944
+count= 8, size=     7, rate=0.0389
+count= 9, size=     4, rate=0.0222
+count=10, size=     3, rate=0.0167
+count=11, size=     3, rate=0.0167
+count=12, size=     2, rate=0.0111
+count=16, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2901
+startL=7, WinMoney=-3145
+startL=8, WinMoney=-3284
+startL=9, WinMoney=247
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-622
+totalL=6, WinMoney=-232
+totalL=7, WinMoney=-1090
+totalL=8, WinMoney=-2901
+totalL=9, WinMoney=-6684
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2901
+startL=7, WinMoney=-3145
+startL=8, WinMoney=-3284
+startL=9, WinMoney=247
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-622
+totalL=6, WinMoney=-232
+totalL=7, WinMoney=-1090
+totalL=8, WinMoney=-2901
+totalL=9, WinMoney=-6684
+第66轮测试
+count= 1, size=  1392, rate=7.7333
+count= 2, size=   647, rate=3.5944
+count= 3, size=   360, rate=2.0000
+count= 4, size=   164, rate=0.9111
+count= 5, size=    71, rate=0.3944
+count= 6, size=    39, rate=0.2167
+count= 7, size=    20, rate=0.1111
+count= 8, size=    14, rate=0.0778
+count= 9, size=     5, rate=0.0278
+count=10, size=     1, rate=0.0056
+count=14, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2935
+startL=7, WinMoney=449
+startL=8, WinMoney=210
+startL=9, WinMoney=72
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=144
+totalL=6, WinMoney=-265
+totalL=7, WinMoney=-1133
+totalL=8, WinMoney=-2935
+totalL=9, WinMoney=801
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2935
+startL=7, WinMoney=449
+startL=8, WinMoney=210
+startL=9, WinMoney=72
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=144
+totalL=6, WinMoney=-265
+totalL=7, WinMoney=-1133
+totalL=8, WinMoney=-2935
+totalL=9, WinMoney=801
+第67轮测试
+count=16, size=     1, rate=0.0056
+count= 1, size=  1327, rate=7.3722
+count= 2, size=   698, rate=3.8778
+count= 3, size=   296, rate=1.6444
+count= 4, size=   169, rate=0.9389
+count= 5, size=    81, rate=0.4500
+count= 6, size=    52, rate=0.2889
+count= 7, size=    17, rate=0.0944
+count= 8, size=    10, rate=0.0556
+count= 9, size=     6, rate=0.0333
+count=10, size=     2, rate=0.0111
+count=11, size=     5, rate=0.0278
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2893
+startL=7, WinMoney=-3116
+startL=8, WinMoney=-3259
+startL=9, WinMoney=242
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-217
+totalL=6, WinMoney=-223
+totalL=7, WinMoney=-1082
+totalL=8, WinMoney=-2893
+totalL=9, WinMoney=-6676
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2893
+startL=7, WinMoney=-3116
+startL=8, WinMoney=-3259
+startL=9, WinMoney=242
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-217
+totalL=6, WinMoney=-223
+totalL=7, WinMoney=-1082
+totalL=8, WinMoney=-2893
+totalL=9, WinMoney=-6676
+第68轮测试
+count= 1, size=  1374, rate=7.6333
+count= 2, size=   663, rate=3.6833
+count= 3, size=   355, rate=1.9722
+count= 4, size=   162, rate=0.9000
+count= 5, size=    80, rate=0.4444
+count= 6, size=    37, rate=0.2056
+count= 7, size=    28, rate=0.1556
+count= 8, size=     6, rate=0.0333
+count= 9, size=     2, rate=0.0111
+count=10, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=446
+startL=7, WinMoney=254
+startL=8, WinMoney=86
+startL=9, WinMoney=41
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=446
+totalL=6, WinMoney=446
+totalL=7, WinMoney=446
+totalL=8, WinMoney=446
+totalL=9, WinMoney=446
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=446
+startL=7, WinMoney=254
+startL=8, WinMoney=86
+startL=9, WinMoney=41
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=446
+totalL=6, WinMoney=446
+totalL=7, WinMoney=446
+totalL=8, WinMoney=446
+totalL=9, WinMoney=446
+第69轮测试
+count=16, size=     1, rate=0.0056
+count= 1, size=  1390, rate=7.7222
+count= 2, size=   656, rate=3.6444
+count= 3, size=   375, rate=2.0833
+count= 4, size=   159, rate=0.8833
+count= 5, size=    73, rate=0.4056
+count= 6, size=    36, rate=0.2000
+count= 7, size=    16, rate=0.0889
+count= 8, size=     8, rate=0.0444
+count= 9, size=     9, rate=0.0500
+count=10, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-3089
+startL=7, WinMoney=-3225
+startL=8, WinMoney=-3329
+startL=9, WinMoney=245
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-8
+totalL=6, WinMoney=-420
+totalL=7, WinMoney=-1284
+totalL=8, WinMoney=-3089
+totalL=9, WinMoney=-6873
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-3089
+startL=7, WinMoney=-3225
+startL=8, WinMoney=-3329
+startL=9, WinMoney=245
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-8
+totalL=6, WinMoney=-420
+totalL=7, WinMoney=-1284
+totalL=8, WinMoney=-3089
+totalL=9, WinMoney=-6873
+第70轮测试
+count= 1, size=  1299, rate=7.2167
+count= 2, size=   655, rate=3.6389
+count= 3, size=   355, rate=1.9722
+count= 4, size=   150, rate=0.8333
+count= 5, size=    76, rate=0.4222
+count= 6, size=    41, rate=0.2278
+count= 7, size=    28, rate=0.1556
+count= 8, size=     9, rate=0.0500
+count= 9, size=     4, rate=0.0222
+count=10, size=     4, rate=0.0222
+count=11, size=     5, rate=0.0278
+count=14, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=189
+startL=7, WinMoney=189
+startL=8, WinMoney=123
+startL=9, WinMoney=100
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1014
+totalL=6, WinMoney=189
+totalL=7, WinMoney=189
+totalL=8, WinMoney=189
+totalL=9, WinMoney=189
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=189
+startL=7, WinMoney=189
+startL=8, WinMoney=123
+startL=9, WinMoney=100
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-1014
+totalL=6, WinMoney=189
+totalL=7, WinMoney=189
+totalL=8, WinMoney=189
+totalL=9, WinMoney=189
+第71轮测试
+count= 1, size=  1352, rate=7.5111
+count= 2, size=   698, rate=3.8778
+count= 3, size=   337, rate=1.8722
+count= 4, size=   178, rate=0.9889
+count= 5, size=    83, rate=0.4611
+count= 6, size=    25, rate=0.1389
+count= 7, size=    15, rate=0.0833
+count= 8, size=     9, rate=0.0500
+count= 9, size=     5, rate=0.0278
+count=10, size=     4, rate=0.0222
+count=11, size=     1, rate=0.0056
+count=13, size=     1, rate=0.0056
+count=16, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-3102
+startL=7, WinMoney=375
+startL=8, WinMoney=315
+startL=9, WinMoney=252
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-434
+totalL=6, WinMoney=-441
+totalL=7, WinMoney=-1300
+totalL=8, WinMoney=-3102
+totalL=9, WinMoney=-6894
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-3102
+startL=7, WinMoney=375
+startL=8, WinMoney=315
+startL=9, WinMoney=252
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-434
+totalL=6, WinMoney=-441
+totalL=7, WinMoney=-1300
+totalL=8, WinMoney=-3102
+totalL=9, WinMoney=-6894
+第72轮测试
+count= 1, size=  1296, rate=7.2000
+count= 2, size=   676, rate=3.7556
+count= 3, size=   319, rate=1.7722
+count= 4, size=   177, rate=0.9833
+count= 5, size=    82, rate=0.4556
+count= 6, size=    47, rate=0.2611
+count= 7, size=    21, rate=0.1167
+count= 8, size=     8, rate=0.0444
+count= 9, size=     4, rate=0.0222
+count=10, size=     6, rate=0.0333
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=602
+startL=7, WinMoney=316
+startL=8, WinMoney=174
+startL=9, WinMoney=80
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=171
+totalL=6, WinMoney=-239
+totalL=7, WinMoney=602
+totalL=8, WinMoney=602
+totalL=9, WinMoney=602
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=602
+startL=7, WinMoney=316
+startL=8, WinMoney=174
+startL=9, WinMoney=80
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=171
+totalL=6, WinMoney=-239
+totalL=7, WinMoney=602
+totalL=8, WinMoney=602
+totalL=9, WinMoney=602
+第73轮测试
+count= 1, size=  1295, rate=7.1944
+count= 2, size=   676, rate=3.7556
+count= 3, size=   314, rate=1.7444
+count= 4, size=   175, rate=0.9722
+count= 5, size=    78, rate=0.4333
+count= 6, size=    52, rate=0.2889
+count= 7, size=    18, rate=0.1000
+count= 8, size=    17, rate=0.0944
+count= 9, size=     3, rate=0.0167
+count=10, size=     1, rate=0.0056
+count=15, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-6815
+startL=7, WinMoney=-6788
+startL=8, WinMoney=383
+startL=9, WinMoney=145
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-644
+totalL=6, WinMoney=-1467
+totalL=7, WinMoney=-3193
+totalL=8, WinMoney=-6815
+totalL=9, WinMoney=-6854
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-6815
+startL=7, WinMoney=-6788
+startL=8, WinMoney=383
+startL=9, WinMoney=145
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-644
+totalL=6, WinMoney=-1467
+totalL=7, WinMoney=-3193
+totalL=8, WinMoney=-6815
+totalL=9, WinMoney=-6854
+第74轮测试
+count= 1, size=  1414, rate=7.8556
+count= 2, size=   692, rate=3.8444
+count= 3, size=   290, rate=1.6111
+count= 4, size=   167, rate=0.9278
+count= 5, size=    94, rate=0.5222
+count= 6, size=    36, rate=0.2000
+count= 7, size=    24, rate=0.1333
+count= 8, size=     8, rate=0.0444
+count= 9, size=     4, rate=0.0222
+count=10, size=     5, rate=0.0278
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=405
+startL=7, WinMoney=219
+startL=8, WinMoney=133
+startL=9, WinMoney=82
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=405
+totalL=6, WinMoney=405
+totalL=7, WinMoney=405
+totalL=8, WinMoney=405
+totalL=9, WinMoney=405
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=405
+startL=7, WinMoney=219
+startL=8, WinMoney=133
+startL=9, WinMoney=82
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=405
+totalL=6, WinMoney=405
+totalL=7, WinMoney=405
+totalL=8, WinMoney=405
+totalL=9, WinMoney=405
+第75轮测试
+count= 1, size=  1290, rate=7.1667
+count= 2, size=   694, rate=3.8556
+count= 3, size=   346, rate=1.9222
+count= 4, size=   162, rate=0.9000
+count= 5, size=    88, rate=0.4889
+count= 6, size=    43, rate=0.2389
+count= 7, size=    17, rate=0.0944
+count= 8, size=    12, rate=0.0667
+count= 9, size=     5, rate=0.0278
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=497
+startL=7, WinMoney=259
+startL=8, WinMoney=148
+startL=9, WinMoney=66
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=66
+totalL=6, WinMoney=-342
+totalL=7, WinMoney=497
+totalL=8, WinMoney=497
+totalL=9, WinMoney=497
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=497
+startL=7, WinMoney=259
+startL=8, WinMoney=148
+startL=9, WinMoney=66
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=66
+totalL=6, WinMoney=-342
+totalL=7, WinMoney=497
+totalL=8, WinMoney=497
+totalL=9, WinMoney=497
+第76轮测试
+count= 1, size=  1265, rate=7.0278
+count= 2, size=   717, rate=3.9833
+count= 3, size=   347, rate=1.9278
+count= 4, size=   171, rate=0.9500
+count= 5, size=    87, rate=0.4833
+count= 6, size=    40, rate=0.2222
+count= 7, size=    14, rate=0.0778
+count= 8, size=    10, rate=0.0556
+count= 9, size=     1, rate=0.0056
+count=10, size=     4, rate=0.0222
+count=11, size=     1, rate=0.0056
+count=13, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=484
+startL=7, WinMoney=282
+startL=8, WinMoney=152
+startL=9, WinMoney=82
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=80
+totalL=6, WinMoney=484
+totalL=7, WinMoney=484
+totalL=8, WinMoney=484
+totalL=9, WinMoney=484
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=484
+startL=7, WinMoney=282
+startL=8, WinMoney=152
+startL=9, WinMoney=82
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=80
+totalL=6, WinMoney=484
+totalL=7, WinMoney=484
+totalL=8, WinMoney=484
+totalL=9, WinMoney=484
+第77轮测试
+count= 1, size=  1466, rate=8.1444
+count= 2, size=   699, rate=3.8833
+count= 3, size=   304, rate=1.6889
+count= 4, size=   146, rate=0.8111
+count= 5, size=    75, rate=0.4167
+count= 6, size=    38, rate=0.2111
+count= 7, size=    16, rate=0.0889
+count= 8, size=    19, rate=0.1056
+count= 9, size=     6, rate=0.0333
+count=10, size=     1, rate=0.0056
+count=11, size=     3, rate=0.0167
+count=12, size=     1, rate=0.0056
+count=13, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=595
+startL=7, WinMoney=386
+startL=8, WinMoney=256
+startL=9, WinMoney=94
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-664
+totalL=6, WinMoney=-1088
+totalL=7, WinMoney=595
+totalL=8, WinMoney=595
+totalL=9, WinMoney=595
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=595
+startL=7, WinMoney=386
+startL=8, WinMoney=256
+startL=9, WinMoney=94
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-664
+totalL=6, WinMoney=-1088
+totalL=7, WinMoney=595
+totalL=8, WinMoney=595
+totalL=9, WinMoney=595
+第78轮测试
+count= 1, size=  1351, rate=7.5056
+count= 2, size=   670, rate=3.7222
+count= 3, size=   348, rate=1.9333
+count= 4, size=   147, rate=0.8167
+count= 5, size=    80, rate=0.4444
+count= 6, size=    48, rate=0.2667
+count= 7, size=    21, rate=0.1167
+count= 8, size=    13, rate=0.0722
+count= 9, size=     8, rate=0.0444
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=312
+startL=7, WinMoney=206
+startL=8, WinMoney=103
+startL=9, WinMoney=59
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=312
+totalL=6, WinMoney=312
+totalL=7, WinMoney=312
+totalL=8, WinMoney=312
+totalL=9, WinMoney=312
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=312
+startL=7, WinMoney=206
+startL=8, WinMoney=103
+startL=9, WinMoney=59
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=312
+totalL=6, WinMoney=312
+totalL=7, WinMoney=312
+totalL=8, WinMoney=312
+totalL=9, WinMoney=312
+第79轮测试
+count= 1, size=  1370, rate=7.6111
+count= 2, size=   722, rate=4.0111
+count= 3, size=   298, rate=1.6556
+count= 4, size=   163, rate=0.9056
+count= 5, size=    68, rate=0.3778
+count= 6, size=    44, rate=0.2444
+count= 7, size=    29, rate=0.1611
+count= 8, size=    10, rate=0.0556
+count= 9, size=     7, rate=0.0389
+count=10, size=     1, rate=0.0056
+count=13, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=551
+startL=7, WinMoney=336
+startL=8, WinMoney=168
+startL=9, WinMoney=85
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=130
+totalL=6, WinMoney=-288
+totalL=7, WinMoney=551
+totalL=8, WinMoney=551
+totalL=9, WinMoney=551
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=551
+startL=7, WinMoney=336
+startL=8, WinMoney=168
+startL=9, WinMoney=85
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=130
+totalL=6, WinMoney=-288
+totalL=7, WinMoney=551
+totalL=8, WinMoney=551
+totalL=9, WinMoney=551
+第80轮测试
+count= 1, size=  1414, rate=7.8556
+count= 2, size=   732, rate=4.0667
+count= 3, size=   304, rate=1.6889
+count= 4, size=   179, rate=0.9944
+count= 5, size=    68, rate=0.3778
+count= 6, size=    25, rate=0.1389
+count= 7, size=    32, rate=0.1778
+count= 8, size=     7, rate=0.0389
+count= 9, size=     2, rate=0.0111
+count=11, size=     2, rate=0.0111
+count=13, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-306
+startL=7, WinMoney=-469
+startL=8, WinMoney=-664
+startL=9, WinMoney=-330
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-312
+totalL=6, WinMoney=-306
+totalL=7, WinMoney=-306
+totalL=8, WinMoney=-306
+totalL=9, WinMoney=-306
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-306
+startL=7, WinMoney=-469
+startL=8, WinMoney=-664
+startL=9, WinMoney=-330
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-312
+totalL=6, WinMoney=-306
+totalL=7, WinMoney=-306
+totalL=8, WinMoney=-306
+totalL=9, WinMoney=-306
+第81轮测试
+count= 1, size=  1333, rate=7.4056
+count= 2, size=   678, rate=3.7667
+count= 3, size=   344, rate=1.9111
+count= 4, size=   193, rate=1.0722
+count= 5, size=    73, rate=0.4056
+count= 6, size=    44, rate=0.2444
+count= 7, size=    10, rate=0.0556
+count= 8, size=    10, rate=0.0556
+count= 9, size=     6, rate=0.0333
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=311
+startL=7, WinMoney=108
+startL=8, WinMoney=75
+startL=9, WinMoney=36
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-92
+totalL=6, WinMoney=311
+totalL=7, WinMoney=311
+totalL=8, WinMoney=311
+totalL=9, WinMoney=311
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=311
+startL=7, WinMoney=108
+startL=8, WinMoney=75
+startL=9, WinMoney=36
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-92
+totalL=6, WinMoney=311
+totalL=7, WinMoney=311
+totalL=8, WinMoney=311
+totalL=9, WinMoney=311
+第82轮测试
+count= 1, size=  1392, rate=7.7333
+count= 2, size=   736, rate=4.0889
+count= 3, size=   311, rate=1.7278
+count= 4, size=   152, rate=0.8444
+count= 5, size=    85, rate=0.4722
+count= 6, size=    45, rate=0.2500
+count= 7, size=    11, rate=0.0611
+count= 8, size=    11, rate=0.0611
+count= 9, size=     3, rate=0.0167
+count=10, size=     3, rate=0.0167
+count=13, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=474
+startL=7, WinMoney=270
+startL=8, WinMoney=167
+startL=9, WinMoney=66
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=474
+totalL=6, WinMoney=474
+totalL=7, WinMoney=474
+totalL=8, WinMoney=474
+totalL=9, WinMoney=474
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=474
+startL=7, WinMoney=270
+startL=8, WinMoney=167
+startL=9, WinMoney=66
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=474
+totalL=6, WinMoney=474
+totalL=7, WinMoney=474
+totalL=8, WinMoney=474
+totalL=9, WinMoney=474
+第83轮测试
+count= 1, size=  1344, rate=7.4667
+count= 2, size=   702, rate=3.9000
+count= 3, size=   322, rate=1.7889
+count= 4, size=   155, rate=0.8611
+count= 5, size=    91, rate=0.5056
+count= 6, size=    29, rate=0.1611
+count= 7, size=    24, rate=0.1333
+count= 8, size=    13, rate=0.0722
+count= 9, size=     5, rate=0.0278
+count=10, size=     2, rate=0.0111
+count=11, size=     2, rate=0.0111
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=283
+startL=7, WinMoney=137
+startL=8, WinMoney=28
+startL=9, WinMoney=-72
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=283
+totalL=6, WinMoney=283
+totalL=7, WinMoney=283
+totalL=8, WinMoney=283
+totalL=9, WinMoney=283
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=283
+startL=7, WinMoney=137
+startL=8, WinMoney=28
+startL=9, WinMoney=-72
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=283
+totalL=6, WinMoney=283
+totalL=7, WinMoney=283
+totalL=8, WinMoney=283
+totalL=9, WinMoney=283
+第84轮测试
+count= 1, size=  1288, rate=7.1556
+count= 2, size=   615, rate=3.4167
+count= 3, size=   346, rate=1.9222
+count= 4, size=   163, rate=0.9056
+count= 5, size=   109, rate=0.6056
+count= 6, size=    44, rate=0.2444
+count= 7, size=    12, rate=0.0667
+count= 8, size=    12, rate=0.0667
+count= 9, size=     6, rate=0.0333
+count=10, size=     5, rate=0.0278
+count=12, size=     1, rate=0.0056
+count=15, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=611
+startL=7, WinMoney=405
+startL=8, WinMoney=272
+startL=9, WinMoney=176
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-250
+totalL=6, WinMoney=-1087
+totalL=7, WinMoney=611
+totalL=8, WinMoney=611
+totalL=9, WinMoney=611
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=611
+startL=7, WinMoney=405
+startL=8, WinMoney=272
+startL=9, WinMoney=176
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-250
+totalL=6, WinMoney=-1087
+totalL=7, WinMoney=611
+totalL=8, WinMoney=611
+totalL=9, WinMoney=611
+第85轮测试
+count= 1, size=  1283, rate=7.1278
+count= 2, size=   657, rate=3.6500
+count= 3, size=   318, rate=1.7667
+count= 4, size=   177, rate=0.9833
+count= 5, size=    79, rate=0.4389
+count= 6, size=    48, rate=0.2667
+count= 7, size=    21, rate=0.1167
+count= 8, size=    11, rate=0.0611
+count= 9, size=     9, rate=0.0500
+count=10, size=     1, rate=0.0056
+count=11, size=     1, rate=0.0056
+count=12, size=     2, rate=0.0111
+count=16, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2860
+startL=7, WinMoney=-3063
+startL=8, WinMoney=-3214
+startL=9, WinMoney=287
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-217
+totalL=6, WinMoney=-1029
+totalL=7, WinMoney=-1058
+totalL=8, WinMoney=-2860
+totalL=9, WinMoney=-6652
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2860
+startL=7, WinMoney=-3063
+startL=8, WinMoney=-3214
+startL=9, WinMoney=287
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-217
+totalL=6, WinMoney=-1029
+totalL=7, WinMoney=-1058
+totalL=8, WinMoney=-2860
+totalL=9, WinMoney=-6652
+第86轮测试
+count= 1, size=  1247, rate=6.9278
+count= 2, size=   642, rate=3.5667
+count= 3, size=   362, rate=2.0111
+count= 4, size=   183, rate=1.0167
+count= 5, size=    91, rate=0.5056
+count= 6, size=    29, rate=0.1611
+count= 7, size=    19, rate=0.1056
+count= 8, size=    19, rate=0.1056
+count= 9, size=     2, rate=0.0111
+count=10, size=     6, rate=0.0333
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=481
+startL=7, WinMoney=282
+startL=8, WinMoney=185
+startL=9, WinMoney=41
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=481
+totalL=6, WinMoney=481
+totalL=7, WinMoney=481
+totalL=8, WinMoney=481
+totalL=9, WinMoney=481
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=481
+startL=7, WinMoney=282
+startL=8, WinMoney=185
+startL=9, WinMoney=41
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=481
+totalL=6, WinMoney=481
+totalL=7, WinMoney=481
+totalL=8, WinMoney=481
+totalL=9, WinMoney=481
+第87轮测试
+count= 1, size=  1394, rate=7.7444
+count= 2, size=   688, rate=3.8222
+count= 3, size=   339, rate=1.8833
+count= 4, size=   144, rate=0.8000
+count=20, size=     1, rate=0.0056
+count= 5, size=    71, rate=0.3944
+count= 6, size=    39, rate=0.2167
+count= 7, size=    28, rate=0.1556
+count= 8, size=    11, rate=0.0611
+count= 9, size=     4, rate=0.0222
+count=10, size=     1, rate=0.0056
+count=13, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2945
+startL=7, WinMoney=-3170
+startL=8, WinMoney=-3301
+startL=9, WinMoney=-3355
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=135
+totalL=6, WinMoney=-275
+totalL=7, WinMoney=-1134
+totalL=8, WinMoney=-2945
+totalL=9, WinMoney=-6736
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-2945
+startL=7, WinMoney=-3170
+startL=8, WinMoney=-3301
+startL=9, WinMoney=-3355
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=135
+totalL=6, WinMoney=-275
+totalL=7, WinMoney=-1134
+totalL=8, WinMoney=-2945
+totalL=9, WinMoney=-6736
+第88轮测试
+count= 1, size=  1439, rate=7.9944
+count= 2, size=   634, rate=3.5222
+count= 3, size=   336, rate=1.8667
+count= 4, size=   188, rate=1.0444
+count= 5, size=    71, rate=0.3944
+count= 6, size=    48, rate=0.2667
+count= 7, size=    16, rate=0.0889
+count= 8, size=     7, rate=0.0389
+count= 9, size=     2, rate=0.0111
+count=10, size=     3, rate=0.0167
+count=11, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=464
+startL=7, WinMoney=246
+startL=8, WinMoney=129
+startL=9, WinMoney=62
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=464
+totalL=6, WinMoney=464
+totalL=7, WinMoney=464
+totalL=8, WinMoney=464
+totalL=9, WinMoney=464
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=464
+startL=7, WinMoney=246
+startL=8, WinMoney=129
+startL=9, WinMoney=62
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=464
+totalL=6, WinMoney=464
+totalL=7, WinMoney=464
+totalL=8, WinMoney=464
+totalL=9, WinMoney=464
+第89轮测试
+count= 1, size=  1386, rate=7.7000
+count= 2, size=   684, rate=3.8000
+count= 3, size=   303, rate=1.6833
+count= 4, size=   144, rate=0.8000
+count= 5, size=   103, rate=0.5722
+count= 6, size=    43, rate=0.2389
+count= 7, size=    20, rate=0.1111
+count= 8, size=    12, rate=0.0667
+count= 9, size=     8, rate=0.0444
+count=10, size=     1, rate=0.0056
+count=11, size=     1, rate=0.0056
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=520
+startL=7, WinMoney=304
+startL=8, WinMoney=176
+startL=9, WinMoney=79
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=99
+totalL=6, WinMoney=-319
+totalL=7, WinMoney=520
+totalL=8, WinMoney=520
+totalL=9, WinMoney=520
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=520
+startL=7, WinMoney=304
+startL=8, WinMoney=176
+startL=9, WinMoney=79
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=99
+totalL=6, WinMoney=-319
+totalL=7, WinMoney=520
+totalL=8, WinMoney=520
+totalL=9, WinMoney=520
+第90轮测试
+count= 1, size=  1402, rate=7.7889
+count= 2, size=   644, rate=3.5778
+count= 3, size=   307, rate=1.7056
+count= 4, size=   176, rate=0.9778
+count= 5, size=    86, rate=0.4778
+count= 6, size=    40, rate=0.2222
+count= 7, size=    23, rate=0.1278
+count= 8, size=    11, rate=0.0611
+count= 9, size=    10, rate=0.0556
+count=10, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=510
+startL=7, WinMoney=319
+startL=8, WinMoney=160
+startL=9, WinMoney=81
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=510
+totalL=6, WinMoney=510
+totalL=7, WinMoney=510
+totalL=8, WinMoney=510
+totalL=9, WinMoney=510
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=510
+startL=7, WinMoney=319
+startL=8, WinMoney=160
+startL=9, WinMoney=81
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=510
+totalL=6, WinMoney=510
+totalL=7, WinMoney=510
+totalL=8, WinMoney=510
+totalL=9, WinMoney=510
+第91轮测试
+count= 1, size=  1354, rate=7.5222
+count= 2, size=   650, rate=3.6111
+count= 3, size=   328, rate=1.8222
+count= 4, size=   183, rate=1.0167
+count= 5, size=    88, rate=0.4889
+count= 6, size=    43, rate=0.2389
+count= 7, size=    26, rate=0.1444
+count= 8, size=    10, rate=0.0556
+count= 9, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=427
+startL=7, WinMoney=239
+startL=8, WinMoney=80
+startL=9, WinMoney=19
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=427
+totalL=6, WinMoney=427
+totalL=7, WinMoney=427
+totalL=8, WinMoney=427
+totalL=9, WinMoney=427
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=427
+startL=7, WinMoney=239
+startL=8, WinMoney=80
+startL=9, WinMoney=19
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=427
+totalL=6, WinMoney=427
+totalL=7, WinMoney=427
+totalL=8, WinMoney=427
+totalL=9, WinMoney=427
+第92轮测试
+count= 1, size=  1313, rate=7.2944
+count= 2, size=   687, rate=3.8167
+count= 3, size=   314, rate=1.7444
+count= 4, size=   164, rate=0.9111
+count= 5, size=    69, rate=0.3833
+count= 6, size=    59, rate=0.3278
+count= 7, size=    19, rate=0.1056
+count= 8, size=    11, rate=0.0611
+count= 9, size=     4, rate=0.0222
+count=10, size=     3, rate=0.0167
+count=11, size=     4, rate=0.0222
+count=13, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-1048
+startL=7, WinMoney=-1280
+startL=8, WinMoney=-564
+startL=9, WinMoney=-253
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-601
+totalL=6, WinMoney=-190
+totalL=7, WinMoney=-1048
+totalL=8, WinMoney=-1048
+totalL=9, WinMoney=-1048
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=-1048
+startL=7, WinMoney=-1280
+startL=8, WinMoney=-564
+startL=9, WinMoney=-253
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-601
+totalL=6, WinMoney=-190
+totalL=7, WinMoney=-1048
+totalL=8, WinMoney=-1048
+totalL=9, WinMoney=-1048
+第93轮测试
+count= 1, size=  1431, rate=7.9500
+count= 2, size=   700, rate=3.8889
+count= 3, size=   370, rate=2.0556
+count= 4, size=   154, rate=0.8556
+count= 5, size=    74, rate=0.4111
+count= 6, size=    40, rate=0.2222
+count= 7, size=    15, rate=0.0833
+count= 8, size=     1, rate=0.0056
+count= 9, size=     4, rate=0.0222
+count=10, size=     2, rate=0.0111
+count=12, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=363
+startL=7, WinMoney=182
+startL=8, WinMoney=79
+startL=9, WinMoney=57
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-68
+totalL=6, WinMoney=-486
+totalL=7, WinMoney=363
+totalL=8, WinMoney=363
+totalL=9, WinMoney=363
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=363
+startL=7, WinMoney=182
+startL=8, WinMoney=79
+startL=9, WinMoney=57
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-68
+totalL=6, WinMoney=-486
+totalL=7, WinMoney=363
+totalL=8, WinMoney=363
+totalL=9, WinMoney=363
+第94轮测试
+count= 1, size=  1452, rate=8.0667
+count= 2, size=   622, rate=3.4556
+count= 3, size=   340, rate=1.8889
+count= 4, size=   161, rate=0.8944
+count= 5, size=    96, rate=0.5333
+count= 6, size=    34, rate=0.1889
+count= 7, size=    17, rate=0.0944
+count= 8, size=    13, rate=0.0722
+count= 9, size=     7, rate=0.0389
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=455
+startL=7, WinMoney=236
+startL=8, WinMoney=123
+startL=9, WinMoney=59
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=455
+totalL=6, WinMoney=455
+totalL=7, WinMoney=455
+totalL=8, WinMoney=455
+totalL=9, WinMoney=455
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=455
+startL=7, WinMoney=236
+startL=8, WinMoney=123
+startL=9, WinMoney=59
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=455
+totalL=6, WinMoney=455
+totalL=7, WinMoney=455
+totalL=8, WinMoney=455
+totalL=9, WinMoney=455
+第95轮测试
+count= 1, size=  1388, rate=7.7111
+count= 2, size=   719, rate=3.9944
+count= 3, size=   350, rate=1.9444
+count= 4, size=   149, rate=0.8278
+count= 5, size=    87, rate=0.4833
+count= 6, size=    32, rate=0.1778
+count= 7, size=    14, rate=0.0778
+count= 8, size=    10, rate=0.0556
+count= 9, size=     2, rate=0.0111
+count=10, size=     1, rate=0.0056
+count=11, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=400
+startL=7, WinMoney=238
+startL=8, WinMoney=105
+startL=9, WinMoney=36
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=400
+totalL=6, WinMoney=400
+totalL=7, WinMoney=400
+totalL=8, WinMoney=400
+totalL=9, WinMoney=400
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=400
+startL=7, WinMoney=238
+startL=8, WinMoney=105
+startL=9, WinMoney=36
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=400
+totalL=6, WinMoney=400
+totalL=7, WinMoney=400
+totalL=8, WinMoney=400
+totalL=9, WinMoney=400
+第96轮测试
+count= 1, size=  1433, rate=7.9611
+count= 2, size=   626, rate=3.4778
+count= 3, size=   373, rate=2.0722
+count= 4, size=   165, rate=0.9167
+count= 5, size=    82, rate=0.4556
+count= 6, size=    33, rate=0.1833
+count= 7, size=    15, rate=0.0833
+count= 8, size=     7, rate=0.0389
+count= 9, size=     6, rate=0.0333
+count=10, size=     4, rate=0.0222
+count=11, size=     1, rate=0.0056
+count=14, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=611
+startL=7, WinMoney=412
+startL=8, WinMoney=232
+startL=9, WinMoney=115
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-289
+totalL=6, WinMoney=-304
+totalL=7, WinMoney=-1162
+totalL=8, WinMoney=611
+totalL=9, WinMoney=611
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=611
+startL=7, WinMoney=412
+startL=8, WinMoney=232
+startL=9, WinMoney=115
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-289
+totalL=6, WinMoney=-304
+totalL=7, WinMoney=-1162
+totalL=8, WinMoney=611
+totalL=9, WinMoney=611
+第97轮测试
+count= 1, size=  1291, rate=7.1722
+count= 2, size=   651, rate=3.6167
+count= 3, size=   348, rate=1.9333
+count= 4, size=   179, rate=0.9944
+count= 5, size=    75, rate=0.4167
+count= 6, size=    44, rate=0.2444
+count= 7, size=    21, rate=0.1167
+count= 8, size=    17, rate=0.0944
+count= 9, size=     5, rate=0.0278
+count=10, size=     1, rate=0.0056
+count=11, size=     2, rate=0.0111
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=444
+startL=7, WinMoney=244
+startL=8, WinMoney=138
+startL=9, WinMoney=63
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=40
+totalL=6, WinMoney=444
+totalL=7, WinMoney=444
+totalL=8, WinMoney=444
+totalL=9, WinMoney=444
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=444
+startL=7, WinMoney=244
+startL=8, WinMoney=138
+startL=9, WinMoney=63
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=40
+totalL=6, WinMoney=444
+totalL=7, WinMoney=444
+totalL=8, WinMoney=444
+totalL=9, WinMoney=444
+第98轮测试
+count= 1, size=  1401, rate=7.7833
+count= 2, size=   663, rate=3.6833
+count= 3, size=   387, rate=2.1500
+count= 4, size=   148, rate=0.8222
+count= 5, size=    90, rate=0.5000
+count= 6, size=    34, rate=0.1889
+count= 7, size=    16, rate=0.0889
+count= 8, size=     8, rate=0.0444
+count= 9, size=     1, rate=0.0056
+count=10, size=     1, rate=0.0056
+count=11, size=     1, rate=0.0056
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=400
+startL=7, WinMoney=206
+startL=8, WinMoney=89
+startL=9, WinMoney=33
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-3
+totalL=6, WinMoney=400
+totalL=7, WinMoney=400
+totalL=8, WinMoney=400
+totalL=9, WinMoney=400
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=400
+startL=7, WinMoney=206
+startL=8, WinMoney=89
+startL=9, WinMoney=33
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=-3
+totalL=6, WinMoney=400
+totalL=7, WinMoney=400
+totalL=8, WinMoney=400
+totalL=9, WinMoney=400
+第99轮测试
+count= 1, size=  1384, rate=7.6889
+count= 2, size=   691, rate=3.8389
+count= 3, size=   341, rate=1.8944
+count= 4, size=   157, rate=0.8722
+count= 5, size=    71, rate=0.3944
+count= 6, size=    43, rate=0.2389
+count= 7, size=    22, rate=0.1222
+count= 8, size=    10, rate=0.0556
+count= 9, size=     4, rate=0.0222
+count=10, size=     3, rate=0.0167
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=465
+startL=7, WinMoney=242
+startL=8, WinMoney=138
+startL=9, WinMoney=52
+
+TotalMoney=50000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=465
+totalL=6, WinMoney=465
+totalL=7, WinMoney=465
+totalL=8, WinMoney=465
+totalL=9, WinMoney=465
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=i, totalL=8
+startL=6, WinMoney=465
+startL=7, WinMoney=242
+startL=8, WinMoney=138
+startL=9, WinMoney=52
+
+TotalMoney=67000, startMoney=10, rate=2.1, startL=6, totalL=i
+totalL=5, WinMoney=465
+totalL=6, WinMoney=465
+totalL=7, WinMoney=465
+totalL=8, WinMoney=465
+totalL=9, WinMoney=465
+
+Process finished with exit code 0
